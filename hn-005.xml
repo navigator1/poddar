@@ -1,0 +1,963 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedpress="https://feed.press/xmlns" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+  <channel>
+    <feedpress:locale>en</feedpress:locale>
+    <image>
+      <link>https://packetpushers.net/</link>
+      <title>Heavy Networking</title>
+      <url>https://static.feedpress.com/logo/packetpushersweeklypodcast-653bc236a0040.png</url>
+    </image>
+    <itunes:category text="Technology" />
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <media:rating>nonadult</media:rating>
+    <media:description type="plain">Heavy Networking is an unabashedly nerdy dive into all things networking. On air since 2010, it’s the flagship show of the Packet Pushers podcast network.</media:description>
+    <media:credit role="author">Packet Pushers</media:credit>
+    <media:keywords>networking, networks, technology, IT, infrastructure</media:keywords>
+    <media:copyright>© Packet Pushers Interactive LLC</media:copyright>
+    <dc:creator>Packet Pushers</dc:creator>
+    <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Packet Pushers</itunes:name>
+    </itunes:owner>
+    <itunes:summary>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Greg Ferro, Ethan Banks and Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</itunes:summary>
+    <itunes:subtitle>Heavy Networking is an unabashedly nerdy dive into all things networking. On air since 2010, it’s the flagship show of the Packet Pushers podcast network.</itunes:subtitle>
+    <googleplay:description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Greg Ferro, Ethan Banks and Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</googleplay:description>
+    <feedpress:podcastId>id370842767</feedpress:podcastId>
+    <googleplay:email>operations@packetpushers.net</googleplay:email>
+    <googleplay:explicit>no</googleplay:explicit>
+    <googleplay:author>Packet Pushers</googleplay:author>
+    <title>Heavy Networking [5/5]</title>
+    <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
+    <link>https://packetpushers.net/</link>
+    <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
+    <lastBuildDate>Fri, 04 Sep 2026 17:19:04 +0000</lastBuildDate>
+    <language>en</language>
+    <sy:updatePeriod>
+hourly</sy:updatePeriod>
+    <sy:updateFrequency>
+1</sy:updateFrequency>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <podcast:locked owner="operations@packetpushers.net">no</podcast:locked>
+    <itunes:author>Packet Pushers</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://static.feedpress.com/logo/packetpushersweeklypodcast-653bc236a0040.png" />
+    <itunes:type>episodic</itunes:type>
+    <copyright>© Packet Pushers Interactive LLC</copyright>
+    <podcast:license>© 2024 Packet Pushers Interactive LLC</podcast:license>
+    <podcast:medium>podcast</podcast:medium>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <podcast:podping usesPodping="true" />
+    <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?e455=1789125717" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <item>
+      <title>HN806: Let’s Get NUTS!</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 21 Nov 2025 15:55:41 +0000</pubDate>
+      <category>Marco Martinez</category>
+      <category>network automation</category>
+      <category>network unit testing system</category>
+      <category>NUTS</category>
+      <category>unit tests</category>
+      <category>Urs Baumann</category>
+      <category>workflows</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=72969</guid>
+      <description>Unit testing is a software development practice for checking that an individual component of code works before integrating that unit with other components in a larger program. A new open source project called Network Unit Testing System, or NUTS, brings the same concept to network automation. The big idea is that by incorporating unit tests into&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/" title="ReadHN806: Let&amp;#8217;s Get NUTS!"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17214500/HN806.mp3" length="44264802" type="audio/mpeg" />
+      <itunes:episode>806</itunes:episode>
+      <podcast:episode>806</podcast:episode>
+      <itunes:title>Let's Get NUTS!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>46:07</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Unit testing is a software development practice for checking that an individual component of code works before integrating that unit with other components in a larger program. A new open source …</itunes:subtitle>
+      <itunes:summary>Unit testing is a software development practice for checking that an individual component of code works before integrating that unit with other components in a larger program. A new open source project called Network Unit Testing System, or NUTS, brings the same concept to network automation. The big idea is that by incorporating unit tests into&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/" title="ReadHN806: Let&amp;#8217;s Get NUTS!"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN807: A ‘CLI Lifer’ No More</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn807-a-cli-lifer-no-more/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Mon, 08 Dec 2025 15:57:43 +0000</pubDate>
+      <category>Andy Lapteff</category>
+      <category>AutoCon 4</category>
+      <category>CLI</category>
+      <category>CLI Lifer</category>
+      <category>coding</category>
+      <category>Itential</category>
+      <category>network automation</category>
+      <category>Python</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73135</guid>
+      <description>Andy Lapteff once considered himself a &amp;#8216;CLI lifer.&amp;#8217; As a network engineer he wasn&amp;#8217;t interested in Python. He didn&amp;#8217;t want to learn to code. He had no desire to embrace any of the developer-like processes and tools creeping into the profession, particularly around network automation. That&amp;#8217;s changed. On today&amp;#8217;s Heavy Networking, Andy shares the professional,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn807-a-cli-lifer-no-more/" title="ReadHN807: A &amp;#8216;CLI Lifer&amp;#8217; No More"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17226255/HN807.mp3" length="50288430" type="audio/mpeg" />
+      <itunes:episode>807</itunes:episode>
+      <podcast:episode>807</podcast:episode>
+      <itunes:title>A 'CLI Lifer' No More</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>52:23</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Andy Lapteff once considered himself a ‘CLI lifer.’ As a network engineer he wasn’t interested in Python. He didn’t want to learn to code. He had no desire to embrace any of the developer-like proces…</itunes:subtitle>
+      <itunes:summary>Andy Lapteff once considered himself a &amp;#8216;CLI lifer.&amp;#8217; As a network engineer he wasn&amp;#8217;t interested in Python. He didn&amp;#8217;t want to learn to code. He had no desire to embrace any of the developer-like processes and tools creeping into the profession, particularly around network automation. That&amp;#8217;s changed. On today&amp;#8217;s Heavy Networking, Andy shares the professional,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn807-a-cli-lifer-no-more/" title="ReadHN807: A &amp;#8216;CLI Lifer&amp;#8217; No More"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN808: Is IT a Young Person’s Game?</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn808-is-it-a-young-persons-game/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 12 Dec 2025 15:09:55 +0000</pubDate>
+      <category>AI</category>
+      <category>automation</category>
+      <category>IT careers</category>
+      <category>networking</category>
+      <category>podcast</category>
+      <category>Russ White</category>
+      <category>work-life balance</category>
+      <category>young professionals</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73260</guid>
+      <description>Is the ideal IT employee just leaving college or a veteran with years of experience? Russ White joins Ethan Banks and Drew Conry-Murray to discuss the complexities of this question. Younger professionals just out of college are more willing to work longer hours or unpopular shifts, learn new tools and skills, and take risks. Older&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn808-is-it-a-young-persons-game/" title="ReadHN808: Is IT a Young Person’s Game?"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17231381/HN808.mp3" length="48730278" type="audio/mpeg" />
+      <itunes:episode>808</itunes:episode>
+      <podcast:episode>808</podcast:episode>
+      <itunes:title>Is IT a Young Person’s Game?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>50:46</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Is the ideal IT employee just leaving college or a veteran with years of experience? Russ White joins Ethan Banks and Drew Conry-Murray to discuss the complexities of this question. Younger…</itunes:subtitle>
+      <itunes:summary>Is the ideal IT employee just leaving college or a veteran with years of experience? Russ White joins Ethan Banks and Drew Conry-Murray to discuss the complexities of this question. Younger professionals just out of college are more willing to work longer hours or unpopular shifts, learn new tools and skills, and take risks. Older&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn808-is-it-a-young-persons-game/" title="ReadHN808: Is IT a Young Person’s Game?"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN809: EVPN All the Things!</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn809-evpn-all-the-things/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 09 Jan 2026 17:38:56 +0000</pubDate>
+      <category>BGP</category>
+      <category>data center</category>
+      <category>EVPN</category>
+      <category>Jeff McAdams</category>
+      <category>network virtualization</category>
+      <category>Nokia</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>VLAN</category>
+      <category>VXLAN</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73502</guid>
+      <description>It’s been over a decade since the first Packet Pushers podcast on EVPN. Now, guest Jeff McAdams can legitimately suggest that we “EVPN all the things.” Hosts Ethan Banks and Drew Conry-Murray dig into Jeff’s stance on EVPN/VXLAN. They look at how VXLAN and EVPN work; talk about use cases in the data center, the&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn809-evpn-all-the-things/" title="ReadHN809: EVPN All the Things!"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17250257/HN809B.mp3" length="134414819" type="audio/mpeg" />
+      <itunes:episode>809</itunes:episode>
+      <podcast:episode>809</podcast:episode>
+      <itunes:title>EVPN All the Things!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:08:39</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>It’s been over a decade since the first Packet Pushers podcast on EVPN. Now, guest Jeff McAdams can legitimately suggest that we “EVPN all the things.” Hosts Ethan Banks and Drew Conry-Murray dig int…</itunes:subtitle>
+      <itunes:summary>It’s been over a decade since the first Packet Pushers podcast on EVPN. Now, guest Jeff McAdams can legitimately suggest that we “EVPN all the things.” Hosts Ethan Banks and Drew Conry-Murray dig into Jeff’s stance on EVPN/VXLAN. They look at how VXLAN and EVPN work; talk about use cases in the data center, the&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn809-evpn-all-the-things/" title="ReadHN809: EVPN All the Things!"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN810: AI in Network Operations: Pragmatism Over Hype (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn810-ai-in-network-operations-pragmatism-over-hype-sponsored/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 16 Jan 2026 18:11:21 +0000</pubDate>
+      <category>AI</category>
+      <category>automation</category>
+      <category>Equinix</category>
+      <category>Equinix Fabric</category>
+      <category>Igor Tarasenko</category>
+      <category>MCP</category>
+      <category>Model Context Protocol</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73538</guid>
+      <description>Are you an AI skeptic or an enthusiast? Ethan and Drew sit down with Igor Tarasenko, Senior Director of Product Software Architecture and Engineering at Equinix, to break down the reality of AI in the network. In this sponsored episode, Tarasenko discusses why APIs are the new CLI, the critical need for observability in AI,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn810-ai-in-network-operations-pragmatism-over-hype-sponsored/" title="ReadHN810: AI in Network Operations: Pragmatism Over Hype (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17254921/HN810.mp3" length="143077440" type="audio/mpeg" />
+      <itunes:episode>810</itunes:episode>
+      <podcast:episode>810</podcast:episode>
+      <itunes:title>AI in Network Operations: Pragmatism Over Hype (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>59:37</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Are you an AI skeptic or an enthusiast? Ethan and Drew sit down with Igor Tarasenko, Senior Director of Product Software Architecture and Engineering at Equinix, to break down the reality of AI in…</itunes:subtitle>
+      <itunes:summary>Are you an AI skeptic or an enthusiast? Ethan and Drew sit down with Igor Tarasenko, Senior Director of Product Software Architecture and Engineering at Equinix, to break down the reality of AI in the network. In this sponsored episode, Tarasenko discusses why APIs are the new CLI, the critical need for observability in AI,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn810-ai-in-network-operations-pragmatism-over-hype-sponsored/" title="ReadHN810: AI in Network Operations: Pragmatism Over Hype (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN811: What AI Startups Get Wrong</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn811-what-ai-startups-get-wrong/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 23 Jan 2026 16:04:47 +0000</pubDate>
+      <category>AI</category>
+      <category>Carlos Pignataro</category>
+      <category>intent-based networking</category>
+      <category>LLMs</category>
+      <category>Meter</category>
+      <category>network operations</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73624</guid>
+      <description>What is the real-world impact of AI on network operations? Drew and Ethan have a chat with Carlos Pignataro, Founder &amp;#38; Principal at Blue Fern Consulting, to cut through the AI hype machine. Carlos offers a thoughtful, balanced take on where the industry is headed, and where it’s missing the mark. Together they discuss Intent-Based&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn811-what-ai-startups-get-wrong/" title="ReadHN811: What AI Startups Get Wrong"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17261590/HN811.mp3" length="111291596" type="audio/mpeg" />
+      <itunes:episode>811</itunes:episode>
+      <podcast:episode>811</podcast:episode>
+      <itunes:title>What AI Startups Get Wrong</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>57:03</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>What is the real-world impact of AI on network operations? Drew and Ethan have a chat with Carlos Pignataro, Founder &amp; Principal at Blue Fern Consulting, to cut through the AI hype machine.…</itunes:subtitle>
+      <itunes:summary>What is the real-world impact of AI on network operations? Drew and Ethan have a chat with Carlos Pignataro, Founder &amp;#38; Principal at Blue Fern Consulting, to cut through the AI hype machine. Carlos offers a thoughtful, balanced take on where the industry is headed, and where it’s missing the mark. Together they discuss Intent-Based&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn811-what-ai-startups-get-wrong/" title="ReadHN811: What AI Startups Get Wrong"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN812: Nokia EDA: AI Ops You Can Trust (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn812-nokia-eda-ai-ops-you-can-trust-sponsored/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 30 Jan 2026 16:13:14 +0000</pubDate>
+      <category>AIOps</category>
+      <category>EDA</category>
+      <category>network automation</category>
+      <category>Nokia</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>SRLinux</category>
+      <category>SROS</category>
+      <category>Steven Butler</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73742</guid>
+      <description>AI is everywhere in networking right now, but most of it feels like hype. In this sponsored episode, we go deeper than buzzwords with Steven Butler from Nokia to explore what it takes to make AI Ops real, reliable, and trustworthy in production environments. If you want AI to deliver value, you need the fundamentals&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn812-nokia-eda-ai-ops-you-can-trust-sponsored/" title="ReadHN812: Nokia EDA: AI Ops You Can Trust (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17266989/HN812.mp3" length="99683381" type="audio/mpeg" />
+      <itunes:episode>812</itunes:episode>
+      <podcast:episode>812</podcast:episode>
+      <itunes:title>Nokia EDA: AI Ops You Can Trust (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>51:01</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>AI is everywhere in networking right now, but most of it feels like hype. In this sponsored episode, we go deeper than buzzwords with Steven Butler from Nokia to explore what it takes to make AI Ops…</itunes:subtitle>
+      <itunes:summary>AI is everywhere in networking right now, but most of it feels like hype. In this sponsored episode, we go deeper than buzzwords with Steven Butler from Nokia to explore what it takes to make AI Ops real, reliable, and trustworthy in production environments. If you want AI to deliver value, you need the fundamentals&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn812-nokia-eda-ai-ops-you-can-trust-sponsored/" title="ReadHN812: Nokia EDA: AI Ops You Can Trust (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN813: What Should Networkers Know About Software Development (and Vice Versa)?</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn813-what-should-networkers-know-about-software-development-and-vice-versa/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 06 Feb 2026 19:57:05 +0000</pubDate>
+      <category>Chris Rapier</category>
+      <category>Meter</category>
+      <category>network engineers</category>
+      <category>Nick Buraglio</category>
+      <category>podcast</category>
+      <category>software development</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73848</guid>
+      <description>What should network engineers know about software development? What should software developers know about networking? Ethan and Drew sit down with Chris Rapier and Nick Buraglio to discuss why crossing these silos can improve outcomes for everyone. They break down why being a little curious about the infrastructure can help software developers write better code,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn813-what-should-networkers-know-about-software-development-and-vice-versa/" title="ReadHN813: What Should Networkers Know About Software Development (and Vice Versa)?"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17271670/HN813.mp3" length="138139328" type="audio/mpeg" />
+      <itunes:episode>813</itunes:episode>
+      <podcast:episode>813</podcast:episode>
+      <itunes:title>What Should Networkers Know About Software Development (and Vice Versa)?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>57:33</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>What should network engineers know about software development? What should software developers know about networking? Ethan and Drew sit down with Chris Rapier and Nick Buraglio to discuss why…</itunes:subtitle>
+      <itunes:summary>What should network engineers know about software development? What should software developers know about networking? Ethan and Drew sit down with Chris Rapier and Nick Buraglio to discuss why crossing these silos can improve outcomes for everyone. They break down why being a little curious about the infrastructure can help software developers write better code,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn813-what-should-networkers-know-about-software-development-and-vice-versa/" title="ReadHN813: What Should Networkers Know About Software Development (and Vice Versa)?"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN814: ﻿Automating Your Network with Cisco Crosswork Workflow Manager (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn814-automating-your-network-with-cisco-crosswork-workflow-manager-sponsored/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 13 Feb 2026 17:01:43 +0000</pubDate>
+      <category>Cisco</category>
+      <category>Crossword Workflow Manager</category>
+      <category>CWM</category>
+      <category>Jay Kurji</category>
+      <category>Lou Menditto</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>workflow</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=73927</guid>
+      <description>Our topic today is building and running network workflows. If your network workflows live in a spreadsheet, a SharePoint document, or in your head, you really need a workflow manager. A workflow manager brings scalability, repeatability, and consistency to your network operations team. In this sponsored episode, we discuss Cisco Crosswork Workflow Manager. Our guests&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn814-automating-your-network-with-cisco-crosswork-workflow-manager-sponsored/" title="ReadHN814: ﻿Automating Your Network with Cisco Crosswork Workflow Manager (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17275927/HN814.mp3" length="94702144" type="audio/mpeg" />
+      <itunes:episode>814</itunes:episode>
+      <podcast:episode>814</podcast:episode>
+      <itunes:title>Automating Your Network with Cisco Crosswork Workflow Manager (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>48:15</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Our topic today is building and running network workflows. If your network workflows live in a spreadsheet, a SharePoint document, or in your head, you really need a workflow manager. A workflow…</itunes:subtitle>
+      <itunes:summary>Our topic today is building and running network workflows. If your network workflows live in a spreadsheet, a SharePoint document, or in your head, you really need a workflow manager. A workflow manager brings scalability, repeatability, and consistency to your network operations team. In this sponsored episode, we discuss Cisco Crosswork Workflow Manager. Our guests&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn814-automating-your-network-with-cisco-crosswork-workflow-manager-sponsored/" title="ReadHN814: ﻿Automating Your Network with Cisco Crosswork Workflow Manager (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN815: All About PCE</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn815-all-about-pce/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 20 Feb 2026 18:11:47 +0000</pubDate>
+      <category>Andrew Stone</category>
+      <category>Meter</category>
+      <category>networking</category>
+      <category>OSPF</category>
+      <category>PCE</category>
+      <category>PCEP</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74012</guid>
+      <description>Traditional routing protocols like OSPF simply choose the “shortest” path. If the shortest path is full of traffic and there are alternate paths carrying nothing, OSPF can’t help you. Path Computation Element (PCE) along with Path Computation Element Protocol (PCEP) is a way to construct forwarding paths through the network based on factors that distributed&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn815-all-about-pce/" title="ReadHN815: All About PCE"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17280258/HN815.mp3" length="145889646" type="audio/mpeg" />
+      <itunes:episode>815</itunes:episode>
+      <podcast:episode>815</podcast:episode>
+      <itunes:title>All About PCE</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:14:10</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Traditional routing protocols like OSPF simply choose the “shortest” path. If the shortest path is full of traffic and there are alternate paths carrying nothing, OSPF can’t help you. Path Compu…</itunes:subtitle>
+      <itunes:summary>Traditional routing protocols like OSPF simply choose the “shortest” path. If the shortest path is full of traffic and there are alternate paths carrying nothing, OSPF can’t help you. Path Computation Element (PCE) along with Path Computation Element Protocol (PCEP) is a way to construct forwarding paths through the network based on factors that distributed&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn815-all-about-pce/" title="ReadHN815: All About PCE"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN816: Inside the Case: A Hardware Deep Dive with Meter (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn816-inside-the-case-a-hardware-deep-dive-with-meter-sponsored/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 27 Feb 2026 16:11:03 +0000</pubDate>
+      <category>design</category>
+      <category>hardware</category>
+      <category>Heat sink</category>
+      <category>Joshua Markell</category>
+      <category>manufacturing</category>
+      <category>Meter</category>
+      <category>MTBF</category>
+      <category>networking</category>
+      <category>PCB</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>supply chain</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74085</guid>
+      <description>Our topic today is the designing and building of high-performance networking hardware. If you assume the hardware details don’t matter, you’re missing the intentional engineering required to build truly reliable and quiet infrastructure. In this sponsored episode, we discuss Meter’s hardware philosophy with our guest, Joshua Markell, Head of Hardware at Meter. Joshua walks us&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn816-inside-the-case-a-hardware-deep-dive-with-meter-sponsored/" title="ReadHN816: Inside the Case: A Hardware Deep Dive with Meter (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17285200/HN816.mp3" length="115863921" type="audio/mpeg" />
+      <itunes:episode>816</itunes:episode>
+      <podcast:episode>816</podcast:episode>
+      <itunes:title>Inside the Case: A Hardware Deep Dive with Meter (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>58:57</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Our topic today is the designing and building of high-performance networking hardware. If you assume the hardware details don’t matter, you’re missing the intentional engineering required to build tr…</itunes:subtitle>
+      <itunes:summary>Our topic today is the designing and building of high-performance networking hardware. If you assume the hardware details don’t matter, you’re missing the intentional engineering required to build truly reliable and quiet infrastructure. In this sponsored episode, we discuss Meter’s hardware philosophy with our guest, Joshua Markell, Head of Hardware at Meter. Joshua walks us&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn816-inside-the-case-a-hardware-deep-dive-with-meter-sponsored/" title="ReadHN816: Inside the Case: A Hardware Deep Dive with Meter (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN817: Is There a Better Way to Do Software Defined Networking?</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn817-is-there-a-better-way-to-do-software-defined-networking/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 06 Mar 2026 16:11:25 +0000</pubDate>
+      <category>Alex Krentsel</category>
+      <category>centralized control plane</category>
+      <category>de-centralized control plane</category>
+      <category>Meter</category>
+      <category>network architecture</category>
+      <category>network controller</category>
+      <category>Software Defined Networking (SDN)</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74167</guid>
+      <description>Software Defined Networking (SDN) is a centralized architecture in which a controller, or a hierarchy of controllers, runs software that computes network-engineered paths and pushes that forwarding scheme into the network. It&amp;#8217;s also very complex, which can lead to network failures. What if there was a way to keep the benefits of SDN while also&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn817-is-there-a-better-way-to-do-software-defined-networking/" title="ReadHN817: Is There a Better Way to Do Software Defined Networking?"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17294716/HN817.mp3" length="113247869" type="audio/mpeg" />
+      <itunes:episode>817</itunes:episode>
+      <podcast:episode>817</podcast:episode>
+      <itunes:title>Is There a Better Way to Do Software Defined Networking?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>57:29</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Software Defined Networking (SDN) is a centralized architecture in which a controller, or a hierarchy of controllers, runs software that computes network-engineered paths and pushes that forwarding…</itunes:subtitle>
+      <itunes:summary>Software Defined Networking (SDN) is a centralized architecture in which a controller, or a hierarchy of controllers, runs software that computes network-engineered paths and pushes that forwarding scheme into the network. It&amp;#8217;s also very complex, which can lead to network failures. What if there was a way to keep the benefits of SDN while also&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn817-is-there-a-better-way-to-do-software-defined-networking/" title="ReadHN817: Is There a Better Way to Do Software Defined Networking?"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN819: Recipes for Automation – A Look Inside Eric Chou’s AI Networking Cookbook</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn819-recipes-for-automation-a-look-inside-eric-chous-ai-networking-cookbook/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 20 Mar 2026 17:25:14 +0000</pubDate>
+      <category>AI</category>
+      <category>AI Networking Cookbook</category>
+      <category>automation</category>
+      <category>Auvik</category>
+      <category>Eric Chou</category>
+      <category>LLM</category>
+      <category>Local LLM</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74334</guid>
+      <description>Eric Chou, author of the AI Networking Cookbook and host of Network Automation Nerds, joins Ethan and Drew to discuss adding artificial intelligence to your network automation toolbox. The AI Networking Cookbook is aimed at network engineers and provides a systematic approach to learning AI for network automation. Together they break down pros and cons&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn819-recipes-for-automation-a-look-inside-eric-chous-ai-networking-cookbook/" title="ReadHN819: Recipes for Automation &amp;#8211; A Look Inside Eric Chou&amp;#8217;s AI Networking Cookbook"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17302798/HN819.mp3" length="121775378" type="audio/mpeg" />
+      <itunes:episode>819</itunes:episode>
+      <podcast:episode>819</podcast:episode>
+      <itunes:title> Recipes for Automation - A Look Inside Eric Chou's AI Networking Cookbook</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:01:49</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Eric Chou, author of the AI Networking Cookbook and host of Network Automation Nerds, joins Ethan and Drew to discuss adding artificial intelligence to your network automation toolbox. The AI…</itunes:subtitle>
+      <itunes:summary>Eric Chou, author of the AI Networking Cookbook and host of Network Automation Nerds, joins Ethan and Drew to discuss adding artificial intelligence to your network automation toolbox. The AI Networking Cookbook is aimed at network engineers and provides a systematic approach to learning AI for network automation. Together they break down pros and cons&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn819-recipes-for-automation-a-look-inside-eric-chous-ai-networking-cookbook/" title="ReadHN819: Recipes for Automation &amp;#8211; A Look Inside Eric Chou&amp;#8217;s AI Networking Cookbook"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN820: Cyber Week 2026 Wrap Up with Palo Alto Networks: Agents, Prisma AIRS and NGTS (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn820-cyber-week-2026-wrap-up-with-palo-alto-networks-agents-prisma-airs-and-ngts-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 27 Mar 2026 16:31:39 +0000</pubDate>
+      <category>agentic AI</category>
+      <category>AI security</category>
+      <category>cryptography</category>
+      <category>Ian Swanson</category>
+      <category>Palo Alto Networks</category>
+      <category>podcast</category>
+      <category>Prisma AIRS</category>
+      <category>Rich Campagna</category>
+      <category>SASE</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74506</guid>
+      <description>Palo Alto Networks released a slew of product news at the 2026 RSA conference around AI security, SASE, and a new certificate lifecycle management offering. On today’s Heavy Networking, sponsored by Palo Alto Networks, Ethan and Drew dig into these announcements to get details about how they work. They also talk about the risks of&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn820-cyber-week-2026-wrap-up-with-palo-alto-networks-agents-prisma-airs-and-ngts-sponsored/" title="ReadHN820: Cyber Week 2026 Wrap Up with Palo Alto Networks: Agents, Prisma AIRS and NGTS (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17307623/HN820.mp3" length="76821559" type="audio/mpeg" />
+      <itunes:episode>820</itunes:episode>
+      <podcast:episode>820</podcast:episode>
+      <itunes:title>Cyber Week 2026 Wrap Up with Palo Alto Networks: Agents, Prisma AIRS and NGTS (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>38:53</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Palo Alto Networks released a slew of product news at the 2026 RSA conference around AI security, SASE, and a new certificate lifecycle management offering. On today’s Heavy Networking, sponsored by …</itunes:subtitle>
+      <itunes:summary>Palo Alto Networks released a slew of product news at the 2026 RSA conference around AI security, SASE, and a new certificate lifecycle management offering. On today’s Heavy Networking, sponsored by Palo Alto Networks, Ethan and Drew dig into these announcements to get details about how they work. They also talk about the risks of&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn820-cyber-week-2026-wrap-up-with-palo-alto-networks-agents-prisma-airs-and-ngts-sponsored/" title="ReadHN820: Cyber Week 2026 Wrap Up with Palo Alto Networks: Agents, Prisma AIRS and NGTS (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN821: Boring Network Design Is Good</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn821-boring-network-design-is-good/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 03 Apr 2026 15:50:40 +0000</pubDate>
+      <category>Meter</category>
+      <category>NANOG</category>
+      <category>network design</category>
+      <category>network efficiency</category>
+      <category>network standardization</category>
+      <category>podcast</category>
+      <category>Ryan Hamel</category>
+      <category>sponsored</category>
+      <category>work-life balance</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74597</guid>
+      <description>Ethan Banks sits down with Ryan Hamel at the 96th North American Network Operators’ Group (NANOG96). Ryan, a network automation developer for the Zayo Group, talks about why boring network design is actually a good thing. He and Ethan explore why simplicity and standardization are key to long-term success. They also emphasize the importance of&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn821-boring-network-design-is-good/" title="ReadHN821: Boring Network Design Is Good"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17313162/HN821.mp3" length="109578626" type="audio/mpeg" />
+      <itunes:episode>821</itunes:episode>
+      <podcast:episode>821</podcast:episode>
+      <itunes:title>Boring Network Design Is Good</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>55:52</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Ethan Banks sits down with Ryan Hamel at the 96th North American Network Operators’ Group (NANOG96). Ryan, a network automation developer for the Zayo Group, talks about why boring network design is …</itunes:subtitle>
+      <itunes:summary>Ethan Banks sits down with Ryan Hamel at the 96th North American Network Operators’ Group (NANOG96). Ryan, a network automation developer for the Zayo Group, talks about why boring network design is actually a good thing. He and Ethan explore why simplicity and standardization are key to long-term success. They also emphasize the importance of&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn821-boring-network-design-is-good/" title="ReadHN821: Boring Network Design Is Good"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN822: Now I Understand. You Mean an AI-Safe Zero-Trust Network Automation Approach (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn822-now-i-understand-you-mean-an-ai-safe-zero-trust-network-automation-approach-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 10 Apr 2026 16:36:20 +0000</pubDate>
+      <category>AI</category>
+      <category>Curvium</category>
+      <category>David Gee</category>
+      <category>Large Language Model (LLM)</category>
+      <category>network automation</category>
+      <category>orchestration</category>
+      <category>security</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74708</guid>
+      <description>On today&amp;#8217;s sponsored episode we talk with David Gee, CEO at Curvium, a systems integrator and VAR. David holds thoughtful opinions about network automation and orchestration, how such platforms are to be built, and the impact AI is having on network automation. We dig into how AI fundamentally changes how we interact with systems, and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn822-now-i-understand-you-mean-an-ai-safe-zero-trust-network-automation-approach-sponsored/" title="ReadHN822: Now I Understand. You Mean an AI-Safe Zero-Trust Network Automation Approach (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17317081/HN822.mp3" length="142228426" type="audio/mpeg" />
+      <itunes:episode>822</itunes:episode>
+      <podcast:episode>822</podcast:episode>
+      <itunes:title>Now I Understand. You Mean an AI-Safe Zero-Trust Network Automation Approach. (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:12:08</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>On today’s sponsored episode we talk with David Gee, CEO at Curvium, a systems integrator and VAR. David holds thoughtful opinions about network automation and orchestration, how such platforms are t…</itunes:subtitle>
+      <itunes:summary>On today&amp;#8217;s sponsored episode we talk with David Gee, CEO at Curvium, a systems integrator and VAR. David holds thoughtful opinions about network automation and orchestration, how such platforms are to be built, and the impact AI is having on network automation. We dig into how AI fundamentally changes how we interact with systems, and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn822-now-i-understand-you-mean-an-ai-safe-zero-trust-network-automation-approach-sponsored/" title="ReadHN822: Now I Understand. You Mean an AI-Safe Zero-Trust Network Automation Approach (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN823: Defining A Modern Network Service</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn823-defining-a-modern-network-service/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 17 Apr 2026 17:06:48 +0000</pubDate>
+      <category>Mark Prosser</category>
+      <category>Meter</category>
+      <category>NANOG 96</category>
+      <category>network operations</category>
+      <category>network services</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>TORNOG</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74781</guid>
+      <description>On today’s episode Ethan is joined by Mark Prosser, a self-described Network Operator Advocate and Network Automation Dreamer, to embark on a thought exercise about network services. Together they grapple with questions such as: What is a network service, exactly? How is it defined? Is it even possible to define it when considered in the&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn823-defining-a-modern-network-service/" title="ReadHN823: Defining A Modern Network Service"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17320997/HN823.mp3" length="100596775" type="audio/mpeg" />
+      <itunes:episode>823</itunes:episode>
+      <podcast:episode>823</podcast:episode>
+      <itunes:title>Defining A Modern Network Service</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>51:10</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>On today’s episode Ethan is joined by Mark Prosser, a self-described Network Operator Advocate and Network Automation Dreamer, to embark on a thought exercise about network services. Together they g…</itunes:subtitle>
+      <itunes:summary>On today’s episode Ethan is joined by Mark Prosser, a self-described Network Operator Advocate and Network Automation Dreamer, to embark on a thought exercise about network services. Together they grapple with questions such as: What is a network service, exactly? How is it defined? Is it even possible to define it when considered in the&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn823-defining-a-modern-network-service/" title="ReadHN823: Defining A Modern Network Service"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN824: That’s Not a Job for an LLM: The Right Way to Apply AI to Network Operations (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn824-thats-not-a-job-for-an-llm-the-right-way-to-apply-ai-to-network-operations-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 24 Apr 2026 16:58:10 +0000</pubDate>
+      <category>agentic AI</category>
+      <category>AI</category>
+      <category>AI advisor</category>
+      <category>Avi Freedman</category>
+      <category>Kentik</category>
+      <category>LLM</category>
+      <category>Network Observability</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74883</guid>
+      <description>On today’s sponsored Heavy Networking, we get off the AI hype train to talk about how different artificial intelligence techniques usefully impact network operations&amp;#8212;and where they aren&amp;#8217;t a fit. The various forms of AI represent a set of tools that, like any tool, have use cases, capabilities, and limitations. Our guest is Avi Freedman, CEO&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn824-thats-not-a-job-for-an-llm-the-right-way-to-apply-ai-to-network-operations-sponsored/" title="ReadHN824: That’s Not a Job for an LLM: The Right Way to Apply AI to Network Operations (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17324947/HN824.mp3" length="120395521" type="audio/mpeg" />
+      <itunes:episode>824</itunes:episode>
+      <podcast:episode>824</podcast:episode>
+      <itunes:title>That’s Not a Job for an LLM: The Right Way to Apply AI to Network Operations (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:01:11</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>On today’s sponsored Heavy Networking, we get off the AI hype train to talk about how different artificial intelligence techniques usefully impact network operations—and where they aren’t a fit. The …</itunes:subtitle>
+      <itunes:summary>On today’s sponsored Heavy Networking, we get off the AI hype train to talk about how different artificial intelligence techniques usefully impact network operations&amp;#8212;and where they aren&amp;#8217;t a fit. The various forms of AI represent a set of tools that, like any tool, have use cases, capabilities, and limitations. Our guest is Avi Freedman, CEO&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn824-thats-not-a-job-for-an-llm-the-right-way-to-apply-ai-to-network-operations-sponsored/" title="ReadHN824: That’s Not a Job for an LLM: The Right Way to Apply AI to Network Operations (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN825: Faster Than Dijkstra? Exploring a New Shortest-Path Algorithm with Bruce Davie</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn825-faster-than-dijkstra-exploring-a-new-shortest-path-algorithm-with-bruce-davie/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 01 May 2026 18:23:29 +0000</pubDate>
+      <category>BFD</category>
+      <category>Bruce Davie</category>
+      <category>Dijkstra</category>
+      <category>Meter</category>
+      <category>MPLS</category>
+      <category>OSPF</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>Systems Approach</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=74968</guid>
+      <description>Dijkstra’s algorithm is the foundation of shortest path calculations for link state routing protocols. But researchers have developed a new algorithm that improves on this decades-old approach. Today&amp;#8217;s Heavy Networking welcomes Dr. Bruce Davie to discuss the potential of this new algorithm to unseat Dijkstra. After thoughtful consideration, and consultation with others, his opinion is&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn825-faster-than-dijkstra-exploring-a-new-shortest-path-algorithm-with-bruce-davie/" title="ReadHN825: Faster Than Dijkstra? Exploring a New Shortest-Path Algorithm with Bruce Davie"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17330395/HN825.mp3" length="107669739" type="audio/mpeg" />
+      <itunes:episode>825</itunes:episode>
+      <podcast:episode>825</podcast:episode>
+      <itunes:title>Faster Than Dijkstra? Exploring a New Shortest-Path Algorithm with Bruce Davie</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>54:43</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Dijkstra’s algorithm is the foundation of shortest path calculations for link state routing protocols. But researchers have developed a new algorithm that improves on this decades-old approach. T…</itunes:subtitle>
+      <itunes:summary>Dijkstra’s algorithm is the foundation of shortest path calculations for link state routing protocols. But researchers have developed a new algorithm that improves on this decades-old approach. Today&amp;#8217;s Heavy Networking welcomes Dr. Bruce Davie to discuss the potential of this new algorithm to unseat Dijkstra. After thoughtful consideration, and consultation with others, his opinion is&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn825-faster-than-dijkstra-exploring-a-new-shortest-path-algorithm-with-bruce-davie/" title="ReadHN825: Faster Than Dijkstra? Exploring a New Shortest-Path Algorithm with Bruce Davie"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN826: An Inside Look at Palo Alto Networks Prisma Browser for Business (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn826-an-inside-look-at-palo-alto-networks-prisma-browser-for-business-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 08 May 2026 17:56:43 +0000</pubDate>
+      <category>AI</category>
+      <category>cybersecurity</category>
+      <category>Palo Alto Networks</category>
+      <category>podcast</category>
+      <category>Prisma Browser for Business</category>
+      <category>Shivam Srivastava</category>
+      <category>small business</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75041</guid>
+      <description>A Mastercard survey reveals that 46% of small and medium businesses have experienced a cyberattack, and nearly 20% of those that suffered an attack were then forced to file for bankruptcy or close their business. Ethan and Drew along with guest Shivam Srivastava discuss a new offering from today’s sponsor, Palo Alto Networks: Prisma Browser&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn826-an-inside-look-at-palo-alto-networks-prisma-browser-for-business-sponsored/" title="ReadHN826: An Inside Look at Palo Alto Networks Prisma Browser for Business (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17337045/HN826.mp3" length="68623380" type="audio/mpeg" />
+      <itunes:episode>826</itunes:episode>
+      <podcast:episode>826</podcast:episode>
+      <itunes:title>An Inside Look at Palo Alto Networks Prisma Browser for Business (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>34:46</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>A Mastercard survey reveals that 46% of small and medium businesses have experienced a cyberattack, and nearly 20% of those that suffered an attack were then forced to file for bankruptcy or close…</itunes:subtitle>
+      <itunes:summary>A Mastercard survey reveals that 46% of small and medium businesses have experienced a cyberattack, and nearly 20% of those that suffered an attack were then forced to file for bankruptcy or close their business. Ethan and Drew along with guest Shivam Srivastava discuss a new offering from today’s sponsor, Palo Alto Networks: Prisma Browser&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn826-an-inside-look-at-palo-alto-networks-prisma-browser-for-business-sponsored/" title="ReadHN826: An Inside Look at Palo Alto Networks Prisma Browser for Business (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN827: When Buffers Attack: Understanding Buffers to Better Diagnose Network Weirdness</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn827-when-buffers-attack-understanding-buffers-to-better-diagnose-network-weirdness/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 15 May 2026 17:18:20 +0000</pubDate>
+      <category>data center fabrics</category>
+      <category>John Howard</category>
+      <category>Meter</category>
+      <category>microbursts</category>
+      <category>Network Observability</category>
+      <category>podcast</category>
+      <category>Rob Sherwood</category>
+      <category>sponsored</category>
+      <category>switch buffers</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75128</guid>
+      <description>Today’s episode covers buffers, the space between ingress and egress where a packet might have to live for a fraction of a second if the egress port is tied up transmitting other packets. This topic came courtesy of John Howard who joins Drew and Ethan as a co-host to discuss buffers with guest Rob Sherwood. How&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn827-when-buffers-attack-understanding-buffers-to-better-diagnose-network-weirdness/" title="ReadHN827: When Buffers Attack: Understanding Buffers to Better Diagnose Network Weirdness"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17342042/HN827.mp3" length="174994688" type="audio/mpeg" />
+      <itunes:episode>827</itunes:episode>
+      <podcast:episode>827</podcast:episode>
+      <itunes:title>When Buffers Attack: Understanding Buffers to Better Diagnose Network Weirdness</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:12:55</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Today’s episode covers buffers, the space between ingress and egress where a packet might have to live for a fraction of a second if the egress port is tied up transmitting other packets. This topic …</itunes:subtitle>
+      <itunes:summary>Today’s episode covers buffers, the space between ingress and egress where a packet might have to live for a fraction of a second if the egress port is tied up transmitting other packets. This topic came courtesy of John Howard who joins Drew and Ethan as a co-host to discuss buffers with guest Rob Sherwood. How&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn827-when-buffers-attack-understanding-buffers-to-better-diagnose-network-weirdness/" title="ReadHN827: When Buffers Attack: Understanding Buffers to Better Diagnose Network Weirdness"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN828: How Selector Unifies Cloud and On-Prem Network Observability (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn828-how-selector-unifies-cloud-and-on-prem-network-observability-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 22 May 2026 16:04:31 +0000</pubDate>
+      <category>AI</category>
+      <category>cloud network intelligence</category>
+      <category>cloud observability</category>
+      <category>John Heintz</category>
+      <category>network telemetry</category>
+      <category>podcast</category>
+      <category>Selector.ai</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75207</guid>
+      <description>Selector is extending its AI-driven network observability capabilities into public clouds. On today&amp;#8217;s sponsored episode, we dig into how Selector gathers and analyzes public cloud network telemetry, how it integrates cloud and on-prem network data to provide end-to-end visibility, how it integrates with third-party Application Performance Monitoring (APM) systems to correlate network and application performance,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn828-how-selector-unifies-cloud-and-on-prem-network-observability-sponsored/" title="ReadHN828: How Selector Unifies Cloud and On-Prem Network Observability (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17346548/HN828.mp3" length="91421561" type="audio/mpeg" />
+      <itunes:episode>828</itunes:episode>
+      <podcast:episode>828</podcast:episode>
+      <itunes:title>How Selector Unifies Cloud and On-Prem Network Observability (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>46:24</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Selector is extending its AI-driven network observability capabilities into public clouds. On today’s sponsored episode, we dig into how Selector gathers and analyzes public cloud network telemetry, …</itunes:subtitle>
+      <itunes:summary>Selector is extending its AI-driven network observability capabilities into public clouds. On today&amp;#8217;s sponsored episode, we dig into how Selector gathers and analyzes public cloud network telemetry, how it integrates cloud and on-prem network data to provide end-to-end visibility, how it integrates with third-party Application Performance Monitoring (APM) systems to correlate network and application performance,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn828-how-selector-unifies-cloud-and-on-prem-network-observability-sponsored/" title="ReadHN828: How Selector Unifies Cloud and On-Prem Network Observability (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN829: EVPN/VXLAN Vs. TradCore</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn829-evpn-vxlan-vs-tradcore/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 29 May 2026 16:38:53 +0000</pubDate>
+      <category>automation</category>
+      <category>Auvik</category>
+      <category>EVPN</category>
+      <category>operational complexity</category>
+      <category>podcast</category>
+      <category>redundancy</category>
+      <category>scale</category>
+      <category>sponsored</category>
+      <category>Tony Bourke</category>
+      <category>TradCore</category>
+      <category>VXLAN</category>
+      <category>workload mobility</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75288</guid>
+      <description>Drew and Ethan sit down with Tony Bourke to determine whether TradCore or EVPN VXLAN is right for your network. Tony is a seasoned instructor in automation, network design, and more. They explore the key factors for choosing a design, including scale and redundancy, operational complexity, and workload mobility. AdSpot Sponsor: Auvik Sponsor Auvik Network&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn829-evpn-vxlan-vs-tradcore/" title="ReadHN829: EVPN/VXLAN Vs. TradCore"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17350899/HN829.mp3" length="130200128" type="audio/mpeg" />
+      <itunes:episode>829</itunes:episode>
+      <podcast:episode>829</podcast:episode>
+      <itunes:title>EVPN/VXLAN Vs. TradCore</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>54:15</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Drew and Ethan sit down with Tony Bourke to determine whether TradCore or EVPN VXLAN is right for your network. Tony is a seasoned instructor in automation, network design, and more. They explore…</itunes:subtitle>
+      <itunes:summary>Drew and Ethan sit down with Tony Bourke to determine whether TradCore or EVPN VXLAN is right for your network. Tony is a seasoned instructor in automation, network design, and more. They explore the key factors for choosing a design, including scale and redundancy, operational complexity, and workload mobility. AdSpot Sponsor: Auvik Sponsor Auvik Network&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn829-evpn-vxlan-vs-tradcore/" title="ReadHN829: EVPN/VXLAN Vs. TradCore"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN830: Tailscale CEO on WireGuard, Zero Trust, and Securing AI (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn830-tailscale-ceo-on-wireguard-zero-trust-and-securing-ai-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 05 Jun 2026 19:18:14 +0000</pubDate>
+      <category>AI</category>
+      <category>Aperture</category>
+      <category>Avery Pennarun</category>
+      <category>Data Loss Prevention</category>
+      <category>podcast</category>
+      <category>privileged access management</category>
+      <category>security</category>
+      <category>sponsored</category>
+      <category>Tailscale</category>
+      <category>VPN</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75365</guid>
+      <description>If you think Tailscale is just a VPN for the home lab, think again. On today’s sponsored episode Ethan and Drew are joined by Tailscale CEO Avery Pennarun. Avery explains how the company has evolved into an enterprise-grade connectivity and security platform. He also dives into Tailscale Aperture, their new AI gateway designed to bring&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn830-tailscale-ceo-on-wireguard-zero-trust-and-securing-ai-sponsored/" title="ReadHN830: Tailscale CEO on WireGuard, Zero Trust, and Securing AI (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17354931/HN830.mp3" length="111637551" type="audio/mpeg" />
+      <itunes:episode>830</itunes:episode>
+      <podcast:episode>830</podcast:episode>
+      <itunes:title>Tailscale CEO on WireGuard, Zero Trust, and Securing AI (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>56:39</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>If you think Tailscale is just a VPN for the home lab, think again. On today’s sponsored episode Ethan and Drew are joined by Tailscale CEO Avery Pennarun. Avery explains how the company has evolved …</itunes:subtitle>
+      <itunes:summary>If you think Tailscale is just a VPN for the home lab, think again. On today’s sponsored episode Ethan and Drew are joined by Tailscale CEO Avery Pennarun. Avery explains how the company has evolved into an enterprise-grade connectivity and security platform. He also dives into Tailscale Aperture, their new AI gateway designed to bring&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn830-tailscale-ceo-on-wireguard-zero-trust-and-securing-ai-sponsored/" title="ReadHN830: Tailscale CEO on WireGuard, Zero Trust, and Securing AI (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN831: The Sum, Not Just the Parts: How and Why to Think Holistically About Your Network</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn831-the-sum-not-just-the-parts-how-and-why-to-think-holistically-about-your-network/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 12:50:08 +0000</pubDate>
+      <category>holistic</category>
+      <category>Itential</category>
+      <category>Jason Gintert</category>
+      <category>networking</category>
+      <category>podcast</category>
+      <category>protocols</category>
+      <category>sponsored</category>
+      <category>USNUA</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75462</guid>
+      <description>Your network is an interconnected system. A change you make on one device has consequences beyond that device. Therefore, to do your job well, you must think about the network as a whole. That&amp;#8217;s the big idea behind a blog post written by guest Jason Gintert. He joins Ethan and Drew to talk about how&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn831-the-sum-not-just-the-parts-how-and-why-to-think-holistically-about-your-network/" title="ReadHN831: The Sum, Not Just the Parts: How and Why to Think Holistically About Your Network"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17359997/HN831.mp3" length="134370368" type="audio/mpeg" />
+      <itunes:episode>831</itunes:episode>
+      <podcast:episode>831</podcast:episode>
+      <itunes:title>The Sum, Not Just the Parts: How and Why to Think Holistically About Your Network</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>55:59</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Your network is an interconnected system. A change you make on one device has consequences beyond that device. Therefore, to do your job well, you must think about the network as a whole. That’s the …</itunes:subtitle>
+      <itunes:summary>Your network is an interconnected system. A change you make on one device has consequences beyond that device. Therefore, to do your job well, you must think about the network as a whole. That&amp;#8217;s the big idea behind a blog post written by guest Jason Gintert. He joins Ethan and Drew to talk about how&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn831-the-sum-not-just-the-parts-how-and-why-to-think-holistically-about-your-network/" title="ReadHN831: The Sum, Not Just the Parts: How and Why to Think Holistically About Your Network"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN832: AI Agents Are Just Another Tool: How to Integrate With Your Network Automation Strategy (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn832-ai-agents-are-just-another-tool-how-to-integrate-with-your-network-automation-strategy-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 19 Jun 2026 17:11:30 +0000</pubDate>
+      <category>agentic AI</category>
+      <category>AI</category>
+      <category>AutoCon 5</category>
+      <category>Chris Wade</category>
+      <category>FlowAI</category>
+      <category>Itential</category>
+      <category>network automation</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75540</guid>
+      <description>AI has complicated network automation. It has created questions: If AI generates code for me, do I need to learn Python? Should I be writing a script to gather network information if I can dispatch an AI agent to gather that information for me instead? What new skills can I skip obtaining if AI stands&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn832-ai-agents-are-just-another-tool-how-to-integrate-with-your-network-automation-strategy-sponsored/" title="ReadHN832: AI Agents Are Just Another Tool: How to Integrate With Your Network Automation Strategy (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17363964/HN832.mp3" length="90210782" type="audio/mpeg" />
+      <itunes:episode>832</itunes:episode>
+      <podcast:episode>832</podcast:episode>
+      <itunes:title>AI Agents Are Just Another Tool: How to Integrate With Your Network Automation Strategy (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>45:46</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>AI has complicated network automation. It has created questions: If AI generates code for me, do I need to learn Python? Should I be writing a script to gather network information if I can dispatch…</itunes:subtitle>
+      <itunes:summary>AI has complicated network automation. It has created questions: If AI generates code for me, do I need to learn Python? Should I be writing a script to gather network information if I can dispatch an AI agent to gather that information for me instead? What new skills can I skip obtaining if AI stands&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn832-ai-agents-are-just-another-tool-how-to-integrate-with-your-network-automation-strategy-sponsored/" title="ReadHN832: AI Agents Are Just Another Tool: How to Integrate With Your Network Automation Strategy (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN833: The State of Packet Pushers 2026</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn833-the-state-of-packet-pushers-2026/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 26 Jun 2026 15:52:05 +0000</pubDate>
+      <category>audio engineering</category>
+      <category>Meter</category>
+      <category>Packet Pushers</category>
+      <category>podcast</category>
+      <category>podcast production</category>
+      <category>sponsored</category>
+      <category>video editing</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75616</guid>
+      <description>Ethan and Drew gather the rest of the Packet Pushers team to discuss the State of the Packet Pushers Network. Together they provide a behind the scenes look into current initiatives like adding video and raising the standards of our audio. They also share the details of the workflows behind all your favorite shows and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn833-the-state-of-packet-pushers-2026/" title="ReadHN833: The State of Packet Pushers 2026"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17368680/HN833.mp3" length="143101599" type="audio/mpeg" />
+      <itunes:episode>833</itunes:episode>
+      <podcast:episode>833</podcast:episode>
+      <itunes:title>The State of Packet Pushers 2026</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:12:47</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Ethan and Drew gather the rest of the Packet Pushers team to discuss the State of the Packet Pushers Network. Together they provide a behind the scenes look into current initiatives like adding…</itunes:subtitle>
+      <itunes:summary>Ethan and Drew gather the rest of the Packet Pushers team to discuss the State of the Packet Pushers Network. Together they provide a behind the scenes look into current initiatives like adding video and raising the standards of our audio. They also share the details of the workflows behind all your favorite shows and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn833-the-state-of-packet-pushers-2026/" title="ReadHN833: The State of Packet Pushers 2026"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN834: HPE Self-Driving Networks: The Next Evolution of Network Automation (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn834-hpe-self-driving-networks-the-next-evolution-of-network-automation-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 17:42:00 +0000</pubDate>
+      <category>agentic AI</category>
+      <category>AI</category>
+      <category>HPE</category>
+      <category>Jose Tellado</category>
+      <category>networking</category>
+      <category>podcast</category>
+      <category>self-driving networks</category>
+      <category>sponsored</category>
+      <category>Sunalini Sankhavaram</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75753</guid>
+      <description>In this sponsored episode, HPE’s Sunalini Sankhavaram and Jose Tellado discuss the architectural evolution toward self-driving networks. Together with Ethan and Drew, they break down how integrating agentic AI enables an autonomous architecture capable of being proactive and not just reactive. They also discuss the importance of maintaining human trust in autonomous systems and how&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn834-hpe-self-driving-networks-the-next-evolution-of-network-automation-sponsored/" title="ReadHN834: HPE Self-Driving Networks: The Next Evolution of Network Automation (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17382008/HN834.mp3" length="104025531" type="audio/mpeg" />
+      <itunes:episode>834</itunes:episode>
+      <podcast:episode>834</podcast:episode>
+      <itunes:title>HPE Self-Driving Networks: The Next Evolution of Network Automation (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>52:40</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>In this sponsored episode, HPE’s Sunalini Sankhavaram and Jose Tellado discuss the architectural evolution toward self-driving networks. Together with Ethan and Drew, they break down how integrating …</itunes:subtitle>
+      <itunes:summary>In this sponsored episode, HPE’s Sunalini Sankhavaram and Jose Tellado discuss the architectural evolution toward self-driving networks. Together with Ethan and Drew, they break down how integrating agentic AI enables an autonomous architecture capable of being proactive and not just reactive. They also discuss the importance of maintaining human trust in autonomous systems and how&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn834-hpe-self-driving-networks-the-next-evolution-of-network-automation-sponsored/" title="ReadHN834: HPE Self-Driving Networks: The Next Evolution of Network Automation (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN835: The Pros and Cons of Shortest Path Bridging (SPB)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn835-the-pros-and-cons-of-shortest-path-bridging-spb/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 17:09:24 +0000</pubDate>
+      <category>Ethernet</category>
+      <category>Jeff Wilson</category>
+      <category>Meter</category>
+      <category>Network Fabric</category>
+      <category>podcast</category>
+      <category>Shortest Path Bridging</category>
+      <category>SPB</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75819</guid>
+      <description>Shortest Path Bridging (SPB) remains an intriguing and reliable fabric technology, offering a unique approach to Ethernet that differs from more widely deployed fabrics such as EVPN/VXLAN. Jeff Wilson joins Ethan and Drew to share his experience designing and managing SPB-based fabrics. Together they discuss how SPB simplifies multicast, essential hardware design considerations for scaling,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn835-the-pros-and-cons-of-shortest-path-bridging-spb/" title="ReadHN835: The Pros and Cons of Shortest Path Bridging (SPB)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17386680/HN835.mp3" length="166927808" type="audio/mpeg" />
+      <itunes:episode>835</itunes:episode>
+      <podcast:episode>835</podcast:episode>
+      <itunes:title>The Pros and Cons of Shortest Path Bridging (SPB)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:09:33</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Shortest Path Bridging (SPB) remains an intriguing and reliable fabric technology, offering a unique approach to Ethernet that differs from more widely deployed fabrics such as EVPN/VXLAN. Jeff…</itunes:subtitle>
+      <itunes:summary>Shortest Path Bridging (SPB) remains an intriguing and reliable fabric technology, offering a unique approach to Ethernet that differs from more widely deployed fabrics such as EVPN/VXLAN. Jeff Wilson joins Ethan and Drew to share his experience designing and managing SPB-based fabrics. Together they discuss how SPB simplifies multicast, essential hardware design considerations for scaling,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn835-the-pros-and-cons-of-shortest-path-bridging-spb/" title="ReadHN835: The Pros and Cons of Shortest Path Bridging (SPB)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN836: Optimize AI Traffic on the WAN with Ciena’s Integrated IP Networking (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn836-optimize-ai-traffic-on-the-wan-with-cienas-integrated-ip-networking-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 16:45:21 +0000</pubDate>
+      <category>AI</category>
+      <category>AI inferencing</category>
+      <category>Ciena</category>
+      <category>podcast</category>
+      <category>Rafael Francis</category>
+      <category>sponsored</category>
+      <category>Vini Santos</category>
+      <category>WAN infrastructure</category>
+      <category>wide-area networking</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75925</guid>
+      <description>As more applications and services rely on AI inferencing, that means more traffic on the WAN. Yes, bandwidth can solve a lot of problems, it’s not unlimited and AI inference traffic still has to share pipes with other flows. That means things like WAN latency, determinism, security, and traffic engineering are just as important as&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn836-optimize-ai-traffic-on-the-wan-with-cienas-integrated-ip-networking-sponsored/" title="ReadHN836: Optimize AI Traffic on the WAN with Ciena’s Integrated IP Networking (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17397472/HN836.mp3" length="131691008" type="audio/mpeg" />
+      <itunes:episode>836</itunes:episode>
+      <podcast:episode>836</podcast:episode>
+      <itunes:title>Optimize AI Traffic on the WAN with Ciena’s Integrated IP Networking (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>54:52</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>As more applications and services rely on AI inferencing, that means more traffic on the WAN. Yes, bandwidth can solve a lot of problems, it’s not unlimited and AI inference traffic still has to s…</itunes:subtitle>
+      <itunes:summary>As more applications and services rely on AI inferencing, that means more traffic on the WAN. Yes, bandwidth can solve a lot of problems, it’s not unlimited and AI inference traffic still has to share pipes with other flows. That means things like WAN latency, determinism, security, and traffic engineering are just as important as&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn836-optimize-ai-traffic-on-the-wan-with-cienas-integrated-ip-networking-sponsored/" title="ReadHN836: Optimize AI Traffic on the WAN with Ciena’s Integrated IP Networking (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN837: Agentic AI to Reduce MTTR</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn837-agentic-ai-to-reduce-mttr/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 18:24:34 +0000</pubDate>
+      <category>agentic AI</category>
+      <category>AutoCon</category>
+      <category>AutoCon 5</category>
+      <category>Eduard Dulharu</category>
+      <category>LLM</category>
+      <category>Meter</category>
+      <category>MTTR</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>troubleshooting</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=75990</guid>
+      <description>Ethan Banks sits down with Eduard Dulharu live at AutoCon 5 to explore how agentic AI can be used to reduce Mean Time to Recovery (MTTR) for complex network environments. Eduard breaks down how these AI agents leverage deterministic workflows and custom fine-tuned models to analyze telemetry and propose solutions. Through the use of agentic&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn837-agentic-ai-to-reduce-mttr/" title="ReadHN837: Agentic AI to Reduce MTTR"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17405231/HN837.mp3" length="156175808" type="audio/mpeg" />
+      <itunes:episode>837</itunes:episode>
+      <podcast:episode>837</podcast:episode>
+      <itunes:title>Agentic AI to Reduce MTTR</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:05:04</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Ethan Banks sits down with Eduard Dulharu live at AutoCon 5 to explore how agentic AI can be used to reduce Mean Time to Recovery (MTTR) for complex network environments. Eduard breaks down how…</itunes:subtitle>
+      <itunes:summary>Ethan Banks sits down with Eduard Dulharu live at AutoCon 5 to explore how agentic AI can be used to reduce Mean Time to Recovery (MTTR) for complex network environments. Eduard breaks down how these AI agents leverage deterministic workflows and custom fine-tuned models to analyze telemetry and propose solutions. Through the use of agentic&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn837-agentic-ai-to-reduce-mttr/" title="ReadHN837: Agentic AI to Reduce MTTR"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN838: Meet Mr. Packets – Building Your Own Agentic AI Team Member</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn838-meet-mr-packets-building-your-own-agentic-ai-team-member/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 15:40:25 +0000</pubDate>
+      <category>AI</category>
+      <category>AI agent</category>
+      <category>automation</category>
+      <category>Cisco Live</category>
+      <category>Hank Preston</category>
+      <category>Meter</category>
+      <category>Mr. Packets</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=76141</guid>
+      <description>What does it take to build your own AI agent that could help with day-to-day network tasks? Hank Preston, a Distinguished Architect at Cisco, asked himself that question. He developed a presentation that walks through all the elements one might need to build such an agent, as well as the risks to consider. On today&amp;#8217;s&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn838-meet-mr-packets-building-your-own-agentic-ai-team-member/" title="ReadHN838: Meet Mr. Packets &amp;#8211; Building Your Own Agentic AI Team Member"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17425268/HN_0821_Hank_Preston_Meter_Ads_Audio_FINAL.mp3" length="127140402" type="audio/mpeg" />
+      <itunes:image href="https://packetpushers.net/wp-content/uploads/2026/08/HN838-artwork-300x300.png" />
+      <itunes:episode>838</itunes:episode>
+      <podcast:episode>838</podcast:episode>
+      <itunes:title>Meet Mr. Packets - Building Your Own Agentic AI Team Member</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:04:38</itunes:duration>
+      <rawvoice:poster url="https://packetpushers.net/wp-content/uploads/2026/08/HN838-YT-Thumbnail-300x169.jpg" />
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>What does it take to build your own AI agent that could help with day-to-day network tasks? Hank Preston, a Distinguished Architect at Cisco, asked himself that question. He developed a presentation…</itunes:subtitle>
+      <itunes:summary>What does it take to build your own AI agent that could help with day-to-day network tasks? Hank Preston, a Distinguished Architect at Cisco, asked himself that question. He developed a presentation that walks through all the elements one might need to build such an agent, as well as the risks to consider. On today&amp;#8217;s&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn838-meet-mr-packets-building-your-own-agentic-ai-team-member/" title="ReadHN838: Meet Mr. Packets &amp;#8211; Building Your Own Agentic AI Team Member"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN839: Why Flows, Packets, and DDI are All Critical for Operational Effectiveness (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn839-why-flows-packets-and-ddi-are-all-critical-for-operational-effectiveness-sponsored/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 16:37:41 +0000</pubDate>
+      <category>AI</category>
+      <category>BlueCat</category>
+      <category>DDI</category>
+      <category>MTTI</category>
+      <category>MTTR</category>
+      <category>Network Observability</category>
+      <category>podcast</category>
+      <category>Ryan Grande</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=76262</guid>
+      <description>If you think of BlueCat as just an IPAM or DDI company, think again. BlueCat acquired LiveAction in 2024, and since then, they’ve been working to integrate LiveAction’s network observability capabilities with the DDI portfolio. In this sponsored episode, Ryan Grande, Field CTO at BlueCat, is here to dig into how network observability and DDI&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn839-why-flows-packets-and-ddi-are-all-critical-for-operational-effectiveness-sponsored/" title="ReadHN839: Why Flows, Packets, and DDI are All Critical for Operational Effectiveness (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17433834/HN839.mp3" length="133353728" type="audio/mpeg" />
+      <itunes:episode>839</itunes:episode>
+      <podcast:episode>839</podcast:episode>
+      <itunes:title>Why Flows, Packets, and DDI are All Critical for Operational Effectiveness (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>55:34</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>If you think of BlueCat as just an IPAM or DDI company, think again. BlueCat acquired LiveAction in 2024, and since then, they’ve been working to integrate LiveAction’s network observability cap…</itunes:subtitle>
+      <itunes:summary>If you think of BlueCat as just an IPAM or DDI company, think again. BlueCat acquired LiveAction in 2024, and since then, they’ve been working to integrate LiveAction’s network observability capabilities with the DDI portfolio. In this sponsored episode, Ryan Grande, Field CTO at BlueCat, is here to dig into how network observability and DDI&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn839-why-flows-packets-and-ddi-are-all-critical-for-operational-effectiveness-sponsored/" title="ReadHN839: Why Flows, Packets, and DDI are All Critical for Operational Effectiveness (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN840: How to Make a Technology Buying Decision</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn840-how-to-make-a-technology-buying-decision/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 04 Sep 2026 17:19:04 +0000</pubDate>
+      <category>Itential</category>
+      <category>podcast</category>
+      <category>proof of concept</category>
+      <category>ROI</category>
+      <category>Sian Morgan</category>
+      <category>sponsored</category>
+      <category>technology buying</category>
+      <category>vendor management</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=76355</guid>
+      <description>When engineers look to buy new technology they tend to focus on features and functionality, but there’s more to it than that. Sian Morgan joins Drew and Ethan to discuss the best practices involved in making a good technology buying decision. Sian shares how engineers can align their technical focus with broader business objectives, calculate&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn840-how-to-make-a-technology-buying-decision/" title="ReadHN840: How to Make a Technology Buying Decision"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17439961/HN840.mp3" length="123227648" type="audio/mpeg" />
+      <itunes:episode>840</itunes:episode>
+      <podcast:episode>840</podcast:episode>
+      <itunes:title>How to Make a Technology Buying Decision</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>51:21</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>When engineers look to buy new technology they tend to focus on features and functionality, but there’s more to it than that. Sian Morgan joins Drew and Ethan to discuss the best practices involved i…</itunes:subtitle>
+      <itunes:summary>When engineers look to buy new technology they tend to focus on features and functionality, but there’s more to it than that. Sian Morgan joins Drew and Ethan to discuss the best practices involved in making a good technology buying decision. Sian shares how engineers can align their technical focus with broader business objectives, calculate&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn840-how-to-make-a-technology-buying-decision/" title="ReadHN840: How to Make a Technology Buying Decision"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item></channel>
+</rss>
