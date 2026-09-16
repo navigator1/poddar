@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:33:39 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?e455=1789125717" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?6c99=1789553817" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -959,5 +959,33 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>When engineers look to buy new technology they tend to focus on features and functionality, but there’s more to it than that. Sian Morgan joins Drew and Ethan to discuss the best practices involved i…</itunes:subtitle>
       <itunes:summary>When engineers look to buy new technology they tend to focus on features and functionality, but there’s more to it than that. Sian Morgan joins Drew and Ethan to discuss the best practices involved in making a good technology buying decision. Sian shares how engineers can align their technical focus with broader business objectives, calculate&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn840-how-to-make-a-technology-buying-decision/" title="ReadHN840: How to Make a Technology Buying Decision"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN841: HPE Melds Apstra and Mist for Self-Driving Data Center Networks (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn841-hpe-melds-apstra-and-mist-for-self-driving-data-center-networks-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 11 Sep 2026 16:33:39 +0000</pubDate>
+      <category>AI</category>
+      <category>Apstra</category>
+      <category>data center automation</category>
+      <category>HPE</category>
+      <category>Kyle Baxter</category>
+      <category>Mist</category>
+      <category>podcast</category>
+      <category>predictive analytics</category>
+      <category>sponsored</category>
+      <category>Sridhar Katere</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=76439</guid>
+      <description>In this sponsored episode, Kyle Baxter and Sridhar Katere from HPE join Drew to talk about automating enterprise data center networks. They discuss how HPE integrates its Apstra and Mist products to bring AI ops and self-driving capabilities into data center operations. They also break down how HPE leverages the different strengths of each platform,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn841-hpe-melds-apstra-and-mist-for-self-driving-data-center-networks-sponsored/" title="ReadHN841: HPE Melds Apstra and Mist for Self-Driving Data Center Networks (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17445533/HN841.mp3" length="142548608" type="audio/mpeg" />
+      <itunes:episode>841</itunes:episode>
+      <podcast:episode>841</podcast:episode>
+      <itunes:title>HPE Melds Apstra and Mist for Self-Driving Data Center Networks (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>59:24</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>In this sponsored episode, Kyle Baxter and Sridhar Katere from HPE join Drew to talk about automating enterprise data center networks. They discuss how HPE integrates its Apstra and Mist products to…</itunes:subtitle>
+      <itunes:summary>In this sponsored episode, Kyle Baxter and Sridhar Katere from HPE join Drew to talk about automating enterprise data center networks. They discuss how HPE integrates its Apstra and Mist products to bring AI ops and self-driving capabilities into data center operations. They also break down how HPE leverages the different strengths of each platform,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn841-hpe-melds-apstra-and-mist-for-self-driving-data-center-networks-sponsored/" title="ReadHN841: HPE Melds Apstra and Mist for Self-Driving Data Center Networks (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
