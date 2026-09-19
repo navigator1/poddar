@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 16:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:37:26 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?6c99=1789553817" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?5a31=1789811249" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>Heavy Networking 605: How cnvrg.io Metacloud Can Help Solve MLOps Challenges (Sponsored)</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn605-how-cnvrg-io-metacloud-can-help-solve-mlops-challenges-sponsored/</link>
