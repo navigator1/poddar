@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 15:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:08:19 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?f1ca=1790767562" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?dc79=1791024249" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1039,5 +1039,35 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>Drew and Ethan talk with Kevin Nanns about his journey from network engineer to network architect. Kevin shares his experience grappling with the shift in responsibilities, increased pressure, and…</itunes:subtitle>
       <itunes:summary>Drew and Ethan talk with Kevin Nanns about his journey from network engineer to network architect. Kevin shares his experience grappling with the shift in responsibilities, increased pressure, and communication and management challenges associated with his new role. They also discuss his content creation work on TikTok and his strategies for translating complex technical concepts&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn843-from-network-engineer-to-network-architect-with-kevin-nanns/" title="ReadHN843: From Network Engineer to Network Architect with Kevin Nanns"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN844: Multipath Reliable Connection (MRC)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn844-multipath-reliable-connection-mrc/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 19:09:54 +0000</pubDate>
+      <category>AI</category>
+      <category>congestion control</category>
+      <category>Eric Davis</category>
+      <category>Eric Spada</category>
+      <category>Ethernet</category>
+      <category>Itential</category>
+      <category>MRC</category>
+      <category>Multipath Reliable Connection</category>
+      <category>packet spraying</category>
+      <category>podcast</category>
+      <category>Rip Sohan</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=76734</guid>
+      <description>Today&amp;#8217;s show puts the “heavy” in Heavy Networking with a discussion about Multipath Reliable Connection (MRC). MRC is about getting an even distribution of RDMA traffic across equal cost multipath links in massive data centers, and doing so over plain old lossy Ethernet. Ethan, Drew, and guests discuss how packet spraying, resilience to link and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn844-multipath-reliable-connection-mrc/" title="ReadHN844: Multipath Reliable Connection (MRC)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17484244/HN844.mp3" length="132456653" type="audio/mpeg" />
+      <itunes:episode>844</itunes:episode>
+      <podcast:episode>844</podcast:episode>
+      <itunes:title>Multipath Reliable Connection (MRC)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:07:24</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Today’s show puts the “heavy” in Heavy Networking with a discussion about Multipath Reliable Connection (MRC). MRC is about getting an even distribution of RDMA traffic across equal cost multipath li…</itunes:subtitle>
+      <itunes:summary>Today&amp;#8217;s show puts the “heavy” in Heavy Networking with a discussion about Multipath Reliable Connection (MRC). MRC is about getting an even distribution of RDMA traffic across equal cost multipath links in massive data centers, and doing so over plain old lossy Ethernet. Ethan, Drew, and guests discuss how packet spraying, resilience to link and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn844-multipath-reliable-connection-mrc/" title="ReadHN844: Multipath Reliable Connection (MRC)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
