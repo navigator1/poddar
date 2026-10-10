@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 20:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:45:51 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?3572=1791374706" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?21c6=1791631814" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>Heavy Networking 605: How cnvrg.io Metacloud Can Help Solve MLOps Challenges (Sponsored)</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn605-how-cnvrg-io-metacloud-can-help-solve-mlops-challenges-sponsored/</link>
@@ -113,7 +113,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>In today's sponsored Heavy Networking show with VMware, we take a fresh look at VMware's SASE and Zero Trust Network Access (ZTNA) solution. VMware has a breadth of products that allow for a…</itunes:subtitle>
+      <itunes:subtitle>In today's sponsored Heavy Networking show with VMware, we take a fresh look at VMware's SASE and Zero Trust Network Access (ZTNA) solution. VMware has a breadth of products that allow for…</itunes:subtitle>
       <itunes:summary>In today's sponsored Heavy Networking show with VMware, we take a fresh look at VMware's SASE and Zero Trust Network Access (ZTNA) solution. VMware has a breadth of products that allow for a differentiated overall solution. Joining us today is Craig Connors, Vice President and Chief Technology Officer of Service Provider and Edge at VMware.</itunes:summary>
     </item><item>
       <title>Heavy Networking 608: Everything You Ever Wanted To Know About NAC (And Then Some)</title>
@@ -135,7 +135,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking goes deep on Network Access Control (NAC) for wired and wireless networks. Our guest is Arne Bier, a Senior Consulting Engineer and CCIE. We hit a bunch of topics including…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking goes deep on Network Access Control (NAC) for wired and wireless networks. Our guest is Arne Bier, a Senior Consulting Engineer and CCIE. We hit a bunch of topics…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking goes deep on Network Access Control (NAC) for wired and wireless networks. Our guest is Arne Bier, a Senior Consulting Engineer and CCIE. We hit a bunch of topics including MAC authentication bypass, client certificates, EAP methods, and more. We also discuss reasons why NAC is worth deploying despite the effort.</itunes:summary>
     </item><item>
       <title>Heavy Networking 609: Innovation Or Stagnation – A Year-End Networking Review</title>
@@ -157,7 +157,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking considers the current state of networking technologies and the networking market. We debate whether we've seen any significant innovations over the past year, if the…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking considers the current state of networking technologies and the networking market. We debate whether we've seen any significant innovations over the past year, if…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking considers the current state of networking technologies and the networking market. We debate whether we've seen any significant innovations over the past year, if the industry has stagnated, or if we're simply trying to stay on top of disruptions caused by cloud, Covid, and the erosion of traditional network boundaries. We also discuss how network engineers and the industry are dealing with complexity, if organizations can "cloud" their way out of legacy problems, and more.</itunes:summary>
     </item><item>
       <title>Heavy Networking 610: Network Automation With Nautobot</title>
@@ -179,7 +179,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking we discuss a Nautobot, an open-source software tool that can serve as a source of truth for network automation. We explore how Nautobot works, what it's used for, how it…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking we discuss a Nautobot, an open-source software tool that can serve as a source of truth for network automation. We explore how Nautobot works, what it's used…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking we discuss a Nautobot, an open-source software tool that can serve as a source of truth for network automation. We explore how Nautobot works, what it's used for, how it ties in with Python and Ansible, major features, and more.</itunes:summary>
     </item><item>
       <title>Heavy Networking 611: Data Center Networking And Observability In 2022 (Sponsored)</title>
@@ -201,7 +201,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>As we approach the end of 2021, it's informative to look back at how much change has gone on in the industry. One of the biggest transitions we've seen in enterprise networking has taken place in…</itunes:subtitle>
+      <itunes:subtitle>As we approach the end of 2021, it's informative to look back at how much change has gone on in the industry. One of the biggest transitions we've seen in enterprise networking has taken…</itunes:subtitle>
       <itunes:summary>As we approach the end of 2021, it's informative to look back at how much change has gone on in the industry. One of the biggest transitions we've seen in enterprise networking has taken place in the data center. Software-defined approaches that emerged over the past decade have matured and are being deployed in production. On today's Heavy Networking, we talk with Juniper Networks in a sponsored episode about its Apstra Intent-Based Networking (IBN) platform and how Apstra is transforming the enterprise data center.</itunes:summary>
     </item><item>
       <title>Heavy Networking 612: Cloud-Native Kubernetes Networking For CSPs (Sponsored)</title>
@@ -267,7 +267,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking gets deep in the guts of what’s going on with all the modern trends in networking: cloud-native, containers, eBPF, Kubernetes, DPUs, and so on. Guests Brent Salisbury and D…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking gets deep in the guts of what’s going on with all the modern trends in networking: cloud-native, containers, eBPF, Kubernetes, DPUs, and so on. Guests Brent Salisbury a…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking gets deep in the guts of what’s going on with all the modern trends in networking: cloud-native, containers, eBPF, Kubernetes, DPUs, and so on. Guests Brent Salisbury and Dave Tucker give their insider’s view of developments in cutting-edge networking tech. You’ll walk away with a better idea of what to pay attention to in the months and years to come.</itunes:summary>
     </item><item>
       <title>Heavy Networking 615: Optimize User Experience With Palo Alto Networks’ ADEM (Sponsored)</title>
@@ -310,7 +310,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>The SMTP protocol isn't broken, but email kinda is. Spam, phishing, and other unwanted messages are easy to deliver and harder to stop. On today's Heavy Networking we discuss TMTP and mnm, a…</itunes:subtitle>
+      <itunes:subtitle>The SMTP protocol isn't broken, but email kinda is. Spam, phishing, and other unwanted messages are easy to deliver and harder to stop. On today's Heavy Networking we discuss TMTP and mnm,…</itunes:subtitle>
       <itunes:summary>The SMTP protocol isn't broken, but email kinda is. Spam, phishing, and other unwanted messages are easy to deliver and harder to stop. On today's Heavy Networking we discuss TMTP and mnm, a proposed new protocol and client that aim to preserve the benefits of email while eliminating vulnerabilities and offering a better experience. Our guest is Liam Breck, creator of TMTP and mnm.</itunes:summary>
     </item><item>
       <title>Heavy Networking 617: Go Vs. Python For Network Engineers</title>
@@ -332,7 +332,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking makes the case for why network engineers should consider using the Go language instead for their automation needs. Guest Darren Parkinson makes a strong argument for adding…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking makes the case for why network engineers should consider using the Go language instead for their automation needs. Guest Darren Parkinson makes a strong argument for…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking makes the case for why network engineers should consider using the Go language instead for their automation needs. Guest Darren Parkinson makes a strong argument for adding Go to your tool kit.</itunes:summary>
     </item><item>
       <title>Heavy Networking 618: Building Virtual Networks With Console Connect (Sponsored)</title>
@@ -377,7 +377,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's sponsored Heavy Networking dives into the latest features from Pluribus Networks, including Pluribus KubeTracker, which correlates containers with applications, maps hosts to the network…</itunes:subtitle>
+      <itunes:subtitle>Today's sponsored Heavy Networking dives into the latest features from Pluribus Networks, including Pluribus KubeTracker, which correlates containers with applications, maps hosts to the…</itunes:subtitle>
       <itunes:summary>Today's sponsored Heavy Networking dives into the latest features from Pluribus Networks, including Pluribus KubeTracker, which correlates containers with applications, maps hosts to the network fabric, and more. We also cover FlowTracker and a virtualized packet broker service. Our guest is Alessandro Barbieri, VP Product Management at Pluribus.
 </itunes:summary>
     </item><item>
@@ -422,7 +422,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking, sponsor Itential joins us to discuss how you can deliver a scalable and sustainable network automation system for your enterprise. Our guest is Peter Sprygada, VP of…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking, sponsor Itential joins us to discuss how you can deliver a scalable and sustainable network automation system for your enterprise. Our guest is Peter Sprygada, VP…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking, sponsor Itential joins us to discuss how you can deliver a scalable and sustainable network automation system for your enterprise. Our guest is Peter Sprygada, VP of Product Management at Itential.</itunes:summary>
     </item><item>
       <title>Heavy Networking 622: Intel’s Smart Edge Brings The Cloud To The Edge (Sponsored)</title>
@@ -465,7 +465,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking is a roundtable conversation about career growth. Maybe your title is junior engineer, but you want to be a senior engineer. Be careful what you wish for! Maybe your title…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking is a roundtable conversation about career growth. Maybe your title is junior engineer, but you want to be a senior engineer. Be careful what you wish for! Maybe your…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking is a roundtable conversation about career growth. Maybe your title is junior engineer, but you want to be a senior engineer. Be careful what you wish for! Maybe your title is junior but you feel you’re doing the job of a senior. Are you really? How would you justify this to your manager? We address these and other questions and issues including certs vs. experience, paying dues, the importance of communication skills, and more.</itunes:summary>
     </item><item>
       <title>Heavy Networking 624: Solving Network Problems With Opmantek’s NMIS (Sponsored)</title>
@@ -487,7 +487,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's sponsored Heavy Networking we speak with Opmantek, a FirstWave company. Opmantek's NMIS is a suite of network monitoring applications for managing fault, performance, configuration,…</itunes:subtitle>
+      <itunes:subtitle>On today's sponsored Heavy Networking we speak with Opmantek, a FirstWave company. Opmantek's NMIS is a suite of network monitoring applications for managing fault, performance,…</itunes:subtitle>
       <itunes:summary>On today's sponsored Heavy Networking we speak with Opmantek, a FirstWave company. Opmantek's NMIS is a suite of network monitoring applications for managing fault, performance, configuration, compliance and automation. It supports multi-vendor, multi-tenant and multi-server solutions. We discuss the latest features and real-world use cases.</itunes:summary>
     </item><item>
       <title>Heavy Networking 625: Home IoT Networking At Scale</title>
@@ -509,7 +509,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking dives into home IoT at scale. We’re going to get into the weeds with two network engineers who’ve gone way beyond lighting and a few smart plugs in their home automation set…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking dives into home IoT at scale. We’re going to get into the weeds with two network engineers who’ve gone way beyond lighting and a few smart plugs in their home aut…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking dives into home IoT at scale. We’re going to get into the weeds with two network engineers who’ve gone way beyond lighting and a few smart plugs in their home automation setup. We'll talk devices, protocols, security, and more.</itunes:summary>
     </item><item>
       <title>Heavy Networking 626: Choosing The Right Silicon For The Job (Sponsored)</title>
@@ -575,7 +575,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's sponsored Heavy Networking podcast we talk to Pluribus Networks. Pluribus can extend networking and security services directly to smartNICs/DPUs via its Unified Cloud Fabric to improve…</itunes:subtitle>
+      <itunes:subtitle>On today's sponsored Heavy Networking podcast we talk to Pluribus Networks. Pluribus can extend networking and security services directly to smartNICs/DPUs via its Unified Cloud Fabric to…</itunes:subtitle>
       <itunes:summary>On today's sponsored Heavy Networking podcast we talk to Pluribus Networks. Pluribus can extend networking and security services directly to smartNICs/DPUs via its Unified Cloud Fabric to improve performance, visibility, and security. We talk with Mike Capuano and Alessandro Barbieri from Pluribus on how it all works.</itunes:summary>
     </item><item>
       <title>Heavy Networking 629: The State Of Data Center Fabrics In 2022</title>
@@ -619,7 +619,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking podcast explores two new offerings from sponsor Palo Alto Networks. First is Okyo Garde, a home wireless mesh appliance to connect and secure remote workers while reducing…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking podcast explores two new offerings from sponsor Palo Alto Networks. First is Okyo Garde, a home wireless mesh appliance to connect and secure remote workers while…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking podcast explores two new offerings from sponsor Palo Alto Networks. First is Okyo Garde, a home wireless mesh appliance to connect and secure remote workers while reducing the management burden from IT. We also discuss a new licensing program to make provisioning bandwidth for branch and remote offices for Prisma SD-WAN simpler and more flexible. </itunes:summary>
     </item><item>
       <title>Heavy Networking 631: Saying No</title>
@@ -641,7 +641,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking we talk about why it's important to say "No" when someone tries to put more work on you than you can handle. Guest Tom Hollingsworth wrote a controversial blog…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking we talk about why it's important to say "No" when someone tries to put more work on you than you can handle. Guest Tom Hollingsworth wrote a…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking we talk about why it's important to say "No" when someone tries to put more work on you than you can handle. Guest Tom Hollingsworth wrote a controversial blog post entitled “No Is A Complete Sentence” about how to say "No," to even when it's hard to do. We talk about the nuances of this stance, the risks you take when you do, time management, balancing workloads, and more.</itunes:summary>
     </item><item>
       <title>Heavy Networking 632: How Juniper’s RAN Intelligent Controller Enables 5G Automation (Sponsored)</title>
@@ -663,7 +663,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking dives into the automation and orchestration of 5G networks with sponsor Juniper Networks. We discuss Juniper's RAN Intelligent Controller (RIC), Service Management and…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking dives into the automation and orchestration of 5G networks with sponsor Juniper Networks. We discuss Juniper's RAN Intelligent Controller (RIC), Service Management…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking dives into the automation and orchestration of 5G networks with sponsor Juniper Networks. We discuss Juniper's RAN Intelligent Controller (RIC), Service Management and Orchestration (SMO), how Juniper works with the Open RAN ecosystem, and more. Our guest is Constantine Polychronopoulos, Vice President of 5G and Telco Cloud at Juniper Networks.</itunes:summary>
     </item><item>
       <title>Heavy Networking 633: Building DPU Apps With NVIDIA DOCA (Sponsored)</title>
@@ -707,7 +707,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking gets into networking hardware from MikroTik, a vendor you may not have heard of. Our guest is Kevin Myers, a senior network architect and consultant who uses MikroTik with a…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking gets into networking hardware from MikroTik, a vendor you may not have heard of. Our guest is Kevin Myers, a senior network architect and consultant who uses MikroTik…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking gets into networking hardware from MikroTik, a vendor you may not have heard of. Our guest is Kevin Myers, a senior network architect and consultant who uses MikroTik with a variety of clients big and small. We'll find out what MikroTik is good for, and not good for, management and support, and more. This is a non-sponsored episode.</itunes:summary>
     </item><item>
       <title>Heavy Networking 635: Unified Network Fabrics With Juniper Apstra (Sponsored)</title>
@@ -810,7 +810,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>DNS is our subject on today's Heavy Networking. More specifically, DNS transport over TCP. We talk with John Kristoff, one of the forces behind RFC9210, which covers the operational requirements for…</itunes:subtitle>
+      <itunes:subtitle>DNS is our subject on today's Heavy Networking. More specifically, DNS transport over TCP. We talk with John Kristoff, one of the forces behind RFC9210, which covers the operational…</itunes:subtitle>
       <itunes:summary>DNS is our subject on today's Heavy Networking. More specifically, DNS transport over TCP. We talk with John Kristoff, one of the forces behind RFC9210, which covers the operational requirements for DNS transport over TCP. This is not an esoteric document covering a tiny, nuanced DNS use case. Instead this doc will likely affect most of you listening, whether you’re a network operator or a name server operator. We talk with John about the implications of this RFC.</itunes:summary>
     </item><item>
       <title>Heavy Networking 639: Juniper Cloud Metro Boosts Metro Performance, Efficiency And Sustainability (Sponsored)</title>
@@ -939,7 +939,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking podcast explores what it's like to set up a temporary network to support thousands of users at a live event. We discuss planning and preparation, defining requirements,…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking podcast explores what it's like to set up a temporary network to support thousands of users at a live event. We discuss planning and preparation, defining…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking podcast explores what it's like to set up a temporary network to support thousands of users at a live event. We discuss planning and preparation, defining requirements, design options, performance and security issues, and what to keep in your bag for that last-minute emergency. Our guests are Jim Troutman, Jason Davis, and Alex Latzko. </itunes:summary>
     </item><item>
       <title>Heavy Networking 645: Secure Wireless Planning And Design</title>
@@ -1004,7 +1004,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>A full zero trust architecture goes up and down the stack, bringing in policy and enforcement strategies from the application layer, all the way down into the network. On today's Heavy Networking…</itunes:subtitle>
+      <itunes:subtitle>A full zero trust architecture goes up and down the stack, bringing in policy and enforcement strategies from the application layer, all the way down into the network. On today's Heavy…</itunes:subtitle>
       <itunes:summary>A full zero trust architecture goes up and down the stack, bringing in policy and enforcement strategies from the application layer, all the way down into the network. On today's Heavy Networking podcast we discuss zero trust network access, or ZTNA, with sponsor Fortinet. ZTNA is but one part of a robust zero trust architecture, but what a crucial component it is. Alex Samonte, Director of Technical Architecture, joins us to get into nerdy specifics about Fortinet’s ZTNA.</itunes:summary>
     </item><item>
       <title>Heavy Networking 648: Using Zero Knowledge Middleboxes To Enforce Policy On Encrypted Traffic</title>
@@ -1135,7 +1135,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today’s Heavy Networking, sponsored by Nokia, dives into Nokia's fabric-based approach to data center automation and operations. That approach includes its SR Linux network OS, its Fabric Services S…</itunes:subtitle>
+      <itunes:subtitle>Today’s Heavy Networking, sponsored by Nokia, dives into Nokia's fabric-based approach to data center automation and operations. That approach includes its SR Linux network OS, its Fabric S…</itunes:subtitle>
       <itunes:summary>Today’s Heavy Networking, sponsored by Nokia, dives into Nokia's fabric-based approach to data center automation and operations. That approach includes its SR Linux network OS, its Fabric Services System intent-based platform, its NetOps Development Kit, or NDK, and how all this ties together to address your operational life cycle across Day zero, Day 1, Day Two, and beyond.</itunes:summary>
     </item><item>
       <title>Heavy Networking 654: What’s Up With DPUs?</title>
@@ -1200,7 +1200,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking we look at the idea of embedding zero trust into applications. The way we do cyber security these days has failed in significant ways. What if we could extend the AAA or…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking we look at the idea of embedding zero trust into applications. The way we do cyber security these days has failed in significant ways. What if we could extend the…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking we look at the idea of embedding zero trust into applications. The way we do cyber security these days has failed in significant ways. What if we could extend the AAA or RBAC model to all applications? Better yet, what if we take the RBAC model, make authentication more robust than username &amp;#038; password, assess endpoint security posture constantly, and evaluate each request individually up at layer 7 for all applications? Guest Galeal Zino has opinions on what embedded zero trust looks like. We discuss.</itunes:summary>
     </item><item>
       <title>Heavy Networking 657: New VMware Client Connects Users To SASE, SD-WAN (Sponsored)</title>
@@ -1266,7 +1266,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking podcast, sponsored by Juniper Networks, we discuss how metro networks are evolving to Cloud Metro, how to apply cloud principles and automation to these locations, and…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking podcast, sponsored by Juniper Networks, we discuss how metro networks are evolving to Cloud Metro, how to apply cloud principles and automation to these locations,…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking podcast, sponsored by Juniper Networks, we discuss how metro networks are evolving to Cloud Metro, how to apply cloud principles and automation to these locations, and how the attack surface changes when you transition to Cloud Metro. We also talk about how Juniper supports active assurance and zero trust security in these environments.</itunes:summary>
     </item><item>
       <title>Heavy Networking 660: Writing The Manual – An Insider’s View Of Product Documentation</title>
@@ -1331,7 +1331,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking, guest Tom Costello walks us through his personal lab in the cloud. We discuss pros and cons of the cloud vs. a basement, using EVE-NG vs. CML, how automation can help…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking, guest Tom Costello walks us through his personal lab in the cloud. We discuss pros and cons of the cloud vs. a basement, using EVE-NG vs. CML, how automation can…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking, guest Tom Costello walks us through his personal lab in the cloud. We discuss pros and cons of the cloud vs. a basement, using EVE-NG vs. CML, how automation can help you manage cloud costs, resources for those who might want a cloud lab, and more.</itunes:summary>
     </item><item>
       <title>Heavy Networking 663: OpenAI For Networking</title>
@@ -1353,7 +1353,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Would you give an artificial intelligence responsibility to write your router configurations? You wouldn’t. Not yet. But we’re not as far from that as you might think. On today's Heavy Networking we …</itunes:subtitle>
+      <itunes:subtitle>Would you give an artificial intelligence responsibility to write your router configurations? You wouldn’t. Not yet. But we’re not as far from that as you might think. On today's Heavy Net…</itunes:subtitle>
       <itunes:summary>Would you give an artificial intelligence responsibility to write your router configurations? You wouldn’t. Not yet. But we’re not as far from that as you might think. On today's Heavy Networking we dig into OpenAI and ChatGPT and what it might mean for networking.</itunes:summary>
     </item><item>
       <title>Heavy Networking 664: Semantic Networking – Science Project Or Networking’s Future?</title>
@@ -1374,7 +1374,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking is a forward-looking episode about semantic networking. Semantic networking aims to make decisions on how to route packets based on more than just the destination address…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking is a forward-looking episode about semantic networking. Semantic networking aims to make decisions on how to route packets based on more than just the destination…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking is a forward-looking episode about semantic networking. Semantic networking aims to make decisions on how to route packets based on more than just the destination address and give network operators more routing choices based on considerations such as bandwidth, cost, performance, application type, and so on. But how do you add semantic information to IP headers? How do you program routers and networking hardware to consume semantics? Do we really need this? Guests Adrian Farrel and Hannes Gredler join Greg Ferro and Ethan Banks to discuss and debate.</itunes:summary>
     </item><item>
       <title>Heavy Networking 665: Augtera Network AI Automates NetOps And Works To Prevent Incidents (Sponsored)</title>
@@ -1396,7 +1396,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>The Packet Pushers' Heavy Networking podcast dives into sponsor Augtera and how its AI platform, purpose-built for networking, improves network operations and enables automation. We'll examine how…</itunes:subtitle>
+      <itunes:subtitle>The Packet Pushers' Heavy Networking podcast dives into sponsor Augtera and how its AI platform, purpose-built for networking, improves network operations and enables automation. We'll…</itunes:subtitle>
       <itunes:summary>The Packet Pushers' Heavy Networking podcast dives into sponsor Augtera and how its AI platform, purpose-built for networking, improves network operations and enables automation. We'll examine how Augtera works, how it aims to move beyond the automation of configurations to automate operations and fault management, the kinds of data it collects and how, and how customers are using Augtera in production networks</itunes:summary>
     </item><item>
       <title>Heavy Networking 666: Improving Quality Of Experience With LibreQoS</title>
@@ -1482,7 +1482,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking, sponsor Graphaint is here to discuss how it's rethinking SD-WAN using a Network-as-a-Service (NaaS) model to help customers consume WAN connectivity instead of setting…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking, sponsor Graphaint is here to discuss how it's rethinking SD-WAN using a Network-as-a-Service (NaaS) model to help customers consume WAN connectivity instead of…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking, sponsor Graphaint is here to discuss how it's rethinking SD-WAN using a Network-as-a-Service (NaaS) model to help customers consume WAN connectivity instead of setting up and operating a WAN for themselves. Graphiant combines SD-WAN mainstays such as multiple connection options and traffic policies based on applications and performance, without the operational overhead of SD-WAN tunnels. We dive into the how and why in this episode.</itunes:summary>
     </item><item>
       <title>Heavy Networking 670: The Challenges And Satisfactions Of Building And Running A Mastodon Instance</title>
@@ -1526,7 +1526,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking we sub in a podcast from our Heavy Strategy channel. Greg Ferro from the Packet Pushers and Johna Till Johnson, CEO of Nemertes Research, discuss the impacts of ChatGPT…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking we sub in a podcast from our Heavy Strategy channel. Greg Ferro from the Packet Pushers and Johna Till Johnson, CEO of Nemertes Research, discuss the impacts of…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking we sub in a podcast from our Heavy Strategy channel. Greg Ferro from the Packet Pushers and Johna Till Johnson, CEO of Nemertes Research, discuss the impacts of ChatGPT and AI on the technology workspace, including whether human workers can partner with these tools to increase productivity and improve technology experiences. They don't have answers, but they do have unanswered questions.</itunes:summary>
     </item><item>
       <title>Heavy Networking 672: Overcoming Your Imposter Syndrome</title>
@@ -1636,7 +1636,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Fortinet is a security vendor most of you have heard of. But if all you think of when you hear the name “Fortinet” is firewalls, well yeah, but you should think more broadly. On today's sponsored Hea…</itunes:subtitle>
+      <itunes:subtitle>Fortinet is a security vendor most of you have heard of. But if all you think of when you hear the name “Fortinet” is firewalls, well yeah, but you should think more broadly. On today's spo…</itunes:subtitle>
       <itunes:summary>Fortinet is a security vendor most of you have heard of. But if all you think of when you hear the name “Fortinet” is firewalls, well yeah, but you should think more broadly. On today's sponsored Heavy Networking we're going after the work-from-anywhere challenge with Fortinet’s Zero Trust Network Access (ZTNA) and Secure Access Service Edge (SASE) tech, all of which is baked into FortiOS. If you’re running a FortiGate, you’ve got these capabilities already.</itunes:summary>
     </item><item>
       <title>Heavy Networking 677: US Networking User Association – Meetups For Network Engineers</title>
@@ -1680,7 +1680,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking we dive into the frameworks commonly used by service providers to tackle network slicing and traffic engineering challenges. We'll also talk their pros and cons, and the…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking we dive into the frameworks commonly used by service providers to tackle network slicing and traffic engineering challenges. We'll also talk their pros and…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking we dive into the frameworks commonly used by service providers to tackle network slicing and traffic engineering challenges. We'll also talk their pros and cons, and the approach that Cisco is seeing its customers adopt as providers create virtual networking products for their customers. Cisco is our sponsor for today's show.</itunes:summary>
     </item><item>
       <title>Heavy Networking 679: Mountaintop Networking And Long-Haul Wireless</title>
@@ -1724,7 +1724,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>It's common for SD-WAN vendors to offer monitoring as part of the solution, but leaves the question … how do I monitor the rest of the network? Today’s sponsor Broadcom offers digital experience mon…</itunes:subtitle>
+      <itunes:subtitle>It's common for SD-WAN vendors to offer monitoring as part of the solution, but leaves the question … how do I monitor the rest of the network? Today’s sponsor Broadcom offers digital exp…</itunes:subtitle>
       <itunes:summary>It's common for SD-WAN vendors to offer monitoring as part of the solution, but leaves the question … how do I monitor the rest of the network? Today’s sponsor Broadcom offers digital experience monitoring that is independent of the underlying WAN infrastructure. We explore how it works with guest is Jeremy Rossbach, Chief Technical Evangelist, NetOps by Broadcom.</itunes:summary>
     </item><item>
       <title>Heavy Networking 681: Under The Hood Of Formula 1 Networking</title>
@@ -1746,7 +1746,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Modern F1 racing is bathed in data. Real-time vehicle telemetry. In-car video feeds. More video from camera crews and drones. Live streaming. All of this and more needs a network. On today's Heavy…</itunes:subtitle>
+      <itunes:subtitle>Modern F1 racing is bathed in data. Real-time vehicle telemetry. In-car video feeds. More video from camera crews and drones. Live streaming. All of this and more needs a network. On today's…</itunes:subtitle>
       <itunes:summary>Modern F1 racing is bathed in data. Real-time vehicle telemetry. In-car video feeds. More video from camera crews and drones. Live streaming. All of this and more needs a network. On today's Heavy Networking we speak with Formula 1's David Ramsden, Senior Network Engineer; and Lee Wright, Head of IT Operations, to get the inside track on building the networks that support F1 races.</itunes:summary>
     </item><item>
       <title>Heavy Networking 682: Automating Upgrades And Ensuring Compliance With BackBox (Sponsored)</title>
@@ -1894,7 +1894,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Packet-level fundamentals are essential for network engineers to be able to diagnose and solve network and application problems. On today's Heavy Networking, we dive into the transport layer and…</itunes:subtitle>
+      <itunes:subtitle>Packet-level fundamentals are essential for network engineers to be able to diagnose and solve network and application problems. On today's Heavy Networking, we dive into the transport layer…</itunes:subtitle>
       <itunes:summary>Packet-level fundamentals are essential for network engineers to be able to diagnose and solve network and application problems. On today's Heavy Networking, we dive into the transport layer and packets with packet analysis expert and instructor Chris Greer.</itunes:summary>
     </item><item>
       <title>Heavy Networking 689: Prepping For Certification Exams With Mary Fasang</title>
@@ -1916,7 +1916,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Certifications are a part of life in IT. On today's Heavy Networking we explore preparation strategies with guest Mary Fasang. Her certs run the gamut from CompTIA to MCSE to the CCNP, as well as…</itunes:subtitle>
+      <itunes:subtitle>Certifications are a part of life in IT. On today's Heavy Networking we explore preparation strategies with guest Mary Fasang. Her certs run the gamut from CompTIA to MCSE to the CCNP, as well…</itunes:subtitle>
       <itunes:summary>Certifications are a part of life in IT. On today's Heavy Networking we explore preparation strategies with guest Mary Fasang. Her certs run the gamut from CompTIA to MCSE to the CCNP, as well as the PMP and ITIL certs. How should you prepare for a cert in 2023 when there’s so much content, so many training options, as well as home labbing available? How do you handle failure? Which certs have been the hardest? What study materials have proved helpful? Mary shares her strategies.</itunes:summary>
     </item><item>
       <title>Heavy Networking 690: LACP Is Not Link Aggregation – With Tony Bourke</title>
@@ -1937,7 +1937,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today’s Heavy Networking we talk LACP and link aggregation. While bonding two or more links together to act as a single virtual link has been done for decades, LACP and link aggregation aren't t…</itunes:subtitle>
+      <itunes:subtitle>On today’s Heavy Networking we talk LACP and link aggregation. While bonding two or more links together to act as a single virtual link has been done for decades, LACP and link aggregation a…</itunes:subtitle>
       <itunes:summary>On today’s Heavy Networking we talk LACP and link aggregation. While bonding two or more links together to act as a single virtual link has been done for decades, LACP and link aggregation aren't the same thing, and the distinction matters. Our guest to get into the differences is network instructor Tony Bourke.</itunes:summary>
     </item><item>
       <title>Heavy Networking 691: Why OOB Infrastructure Is Critical For IT Ops &amp; Automation With ZPE Systems (Sponsored)</title>
@@ -2024,7 +2024,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>This week on Heavy Networking we've assembled a roundtable of network engineers to talk about...stuff. Each guest has brought a topic to discuss with the table, so we've got lots of subjects and…</itunes:subtitle>
+      <itunes:subtitle>This week on Heavy Networking we've assembled a roundtable of network engineers to talk about...stuff. Each guest has brought a topic to discuss with the table, so we've got lots of…</itunes:subtitle>
       <itunes:summary>This week on Heavy Networking we've assembled a roundtable of network engineers to talk about...stuff. Each guest has brought a topic to discuss with the table, so we've got lots of subjects and lots of experiences and opinions. In particular we explore SPB, career advice, getting network automation off the ground, and the joys and perils of self-hosting.</itunes:summary>
     </item><item>
       <title>Heavy Networking 695: Automating Network And Firewall Operations With BackBox (Sponsored)</title>
@@ -2046,7 +2046,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's Heavy Networking we explore network and firewall automation with sponsor BackBox. BackBox has developed a platform that aims to deliver practical automation out of the box. We get under…</itunes:subtitle>
+      <itunes:subtitle>On today's Heavy Networking we explore network and firewall automation with sponsor BackBox. BackBox has developed a platform that aims to deliver practical automation out of the box. We get…</itunes:subtitle>
       <itunes:summary>On today's Heavy Networking we explore network and firewall automation with sponsor BackBox. BackBox has developed a platform that aims to deliver practical  automation out of the box. We get under the hood to understand how it works, what it delivers, and how it addresses the challenges of network and security operations.</itunes:summary>
     </item><item>
       <title>Heavy Networking 696: EVPN Fundamentals (And Some VXLAN) With Tony Bourke</title>
@@ -2068,7 +2068,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>EVPN/VXLAN is our topic on today's Heavy Networking. What is it? What’s it for? Should you deploy it? Since you’ve probably already got a network, how do you add EVPN to it? Do you need special har…</itunes:subtitle>
+      <itunes:subtitle>EVPN/VXLAN is our topic on today's Heavy Networking. What is it? What’s it for? Should you deploy it? Since you’ve probably already got a network, how do you add EVPN to it? Do you need special …</itunes:subtitle>
       <itunes:summary>EVPN/VXLAN is our topic on today's Heavy Networking. What is it? What’s it for? Should you deploy it? Since you’ve probably already got a network, how do you add EVPN to it? Do you need special hardware? How does EVPN impact your security design? And what are the fundamentals? Our guest with the answers is IT instructor Tony Bourke.</itunes:summary>
     </item><item>
       <title>Heavy Networking 697: Getting Operational Visibility Into The Networks That Matter (Sponsored)</title>
@@ -2134,7 +2134,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>On today's sponsored Heavy Networking we talk with Fortinet about how it converges network and security across the breadth of its portfolio. Fortinet is best known for its firewalls, but the company…</itunes:subtitle>
+      <itunes:subtitle>On today's sponsored Heavy Networking we talk with Fortinet about how it converges network and security across the breadth of its portfolio. Fortinet is best known for its firewalls, but the…</itunes:subtitle>
       <itunes:summary>On today's sponsored Heavy Networking we talk with Fortinet about how it converges network and security across the breadth of its portfolio. Fortinet is best known for its firewalls, but the company also offers campus and branch switches, has a wireless portfolio, offers SD-WAN and SASE, provides AI-supported operations, and more. We also talk about Fortinet's approach to the branch office that rethinks networking, security, and performance.</itunes:summary>
     </item><item>
       <title>Heavy Networking 701: Monitoring SD-WAN At Scale With Broadcom (Sponsored)</title>
@@ -2175,7 +2175,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking covers Pandas. Not the cuddly bears that eat bamboo, but the Python library that makes it easy for you to work with a set of data. Import Pandas at the top of your Python…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking covers Pandas. Not the cuddly bears that eat bamboo, but the Python library that makes it easy for you to work with a set of data. Import Pandas at the top of your…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking covers Pandas. Not the cuddly bears that eat bamboo, but the Python library that makes it easy for you to work with a set of data. Import Pandas at the top of your Python script, follow one of many Pandas tutorials online, and in short order you’ll be able to perform data operations in a spreadsheet-like way. We talk network automation use cases for Pandas with Rick Donato. </itunes:summary>
     </item><item>
       <title>Heavy Networking 703: Integrating ZTNA And SASE With Palo Alto Networks (Sponsored)</title>
@@ -2219,7 +2219,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>Today's Heavy Networking is another roundtable episode. We've assembled a group of network engineers to talk about what's on their minds. Topics today include why other IT departments adn end users…</itunes:subtitle>
+      <itunes:subtitle>Today's Heavy Networking is another roundtable episode. We've assembled a group of network engineers to talk about what's on their minds. Topics today include why other IT departments…</itunes:subtitle>
       <itunes:summary>Today's Heavy Networking is another roundtable episode. We've assembled a group of network engineers to talk about what's on their minds. Topics today include why other IT departments adn end users are quick to blame the network first, and what can be done about it; using Nokia's open-source Containerlab for testing and development work; and why you shouldn't feel left behind when you hear talk about 400G and 800G networks.</itunes:summary>
     </item><item>
       <title>Heavy Networking 705: Evolving From Python To Platforms For Network Automation (Sponsored)</title>
@@ -2285,7 +2285,7 @@ hourly</sy:updatePeriod>
       <itunes:author>Packet Pushers</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
-      <itunes:subtitle>AI and machine learning are finally being applied to networking in meaningful ways. On today's sponsored show we talk with Selector about its AIOps platform, which ingests networking logs, flows,…</itunes:subtitle>
+      <itunes:subtitle>AI and machine learning are finally being applied to networking in meaningful ways. On today's sponsored show we talk with Selector about its AIOps platform, which ingests networking logs,…</itunes:subtitle>
       <itunes:summary>AI and machine learning are finally being applied to networking in meaningful ways. On today's sponsored show we talk with Selector about its AIOps platform, which ingests networking logs, flows, configurations, SNMP, and other telemetry to detect patterns, spot problems, and provide contextual insights to help network engineers do their jobs better. We speak with Selector about what it is, how it works, and concrete use cases.</itunes:summary>
     </item><item>
       <title>HN708: The Future Of Networking With Brad Casemore – Part 1</title>

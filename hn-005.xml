@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 20:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:45:51 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?3572=1791374706" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?21c6=1791631814" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1069,5 +1069,33 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>Today’s show puts the “heavy” in Heavy Networking with a discussion about Multipath Reliable Connection (MRC). MRC is about getting an even distribution of RDMA traffic across equal cost multipath li…</itunes:subtitle>
       <itunes:summary>Today&amp;#8217;s show puts the “heavy” in Heavy Networking with a discussion about Multipath Reliable Connection (MRC). MRC is about getting an even distribution of RDMA traffic across equal cost multipath links in massive data centers, and doing so over plain old lossy Ethernet. Ethan, Drew, and guests discuss how packet spraying, resilience to link and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn844-multipath-reliable-connection-mrc/" title="ReadHN844: Multipath Reliable Connection (MRC)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN845: Real Life Use Cases for BGP Monitoring Protocol (BMP)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn845-real-life-use-cases-for-bgp-monitoring-protocol-bmp/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 14:45:51 +0000</pubDate>
+      <category>Bart Dorlandt</category>
+      <category>BGP</category>
+      <category>BGP Monitoring Protocol</category>
+      <category>BMP</category>
+      <category>Border Gateway Protocol</category>
+      <category>containerlab</category>
+      <category>Itential</category>
+      <category>Kafka</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=76846</guid>
+      <description>Bart Dorlandt discusses the practical applications and architecture of the BGP Monitoring Protocol (BMP) for service providers. Bart has developed a BMP application to help his customers monitor BGP. He talks about how he handles data collection, why it&amp;#8217;s important to capture pre- and post-policy filtering, how he deals with excessive prefix volumes, future plans&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn845-real-life-use-cases-for-bgp-monitoring-protocol-bmp/" title="ReadHN845: Real Life Use Cases for BGP Monitoring Protocol (BMP)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17492860/HN845.mp3" length="141096128" type="audio/mpeg" />
+      <itunes:episode>845</itunes:episode>
+      <podcast:episode>845</podcast:episode>
+      <itunes:title>Real Life Use Cases for BGP Monitoring Protocol (BMP)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>58:47</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Bart Dorlandt discusses the practical applications and architecture of the BGP Monitoring Protocol (BMP) for service providers. Bart has developed a BMP application to help his customers monitor…</itunes:subtitle>
+      <itunes:summary>Bart Dorlandt discusses the practical applications and architecture of the BGP Monitoring Protocol (BMP) for service providers. Bart has developed a BMP application to help his customers monitor BGP. He talks about how he handles data collection, why it&amp;#8217;s important to capture pre- and post-policy filtering, how he deals with excessive prefix volumes, future plans&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn845-real-life-use-cases-for-bgp-monitoring-protocol-bmp/" title="ReadHN845: Real Life Use Cases for BGP Monitoring Protocol (BMP)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
