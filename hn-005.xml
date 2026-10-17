@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 14:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:59:10 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?5c1a=1791974426" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?414f=1792229711" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1097,5 +1097,33 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>Bart Dorlandt discusses the practical applications and architecture of the BGP Monitoring Protocol (BMP) for service providers. Bart has developed a BMP application to help his customers monitor…</itunes:subtitle>
       <itunes:summary>Bart Dorlandt discusses the practical applications and architecture of the BGP Monitoring Protocol (BMP) for service providers. Bart has developed a BMP application to help his customers monitor BGP. He talks about how he handles data collection, why it&amp;#8217;s important to capture pre- and post-policy filtering, how he deals with excessive prefix volumes, future plans&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn845-real-life-use-cases-for-bgp-monitoring-protocol-bmp/" title="ReadHN845: Real Life Use Cases for BGP Monitoring Protocol (BMP)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN846: How Meter Built a Topology Design Tool to Speed Deployments from Hours to Seconds (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn846-how-meter-built-a-topology-design-tool-to-speed-deployments-from-hours-to-seconds-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 17:59:10 +0000</pubDate>
+      <category>Alex La Fazia</category>
+      <category>Daniel Kaczmarczyk</category>
+      <category>LLM</category>
+      <category>Meter</category>
+      <category>network automation</category>
+      <category>network topology</category>
+      <category>podcast</category>
+      <category>programming languages</category>
+      <category>rules engine</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=76932</guid>
+      <description>In this sponsored episode, Alex La Fazia and Daniel Kaczmarczyk of Meter explain how they built an internal tool to automate network topology creation, drastically reducing design time from hundreds of hours to seconds. They share how they relied on a deterministic rules engine to ensure accurate, repeatable network configurations. They also discuss leveraging AI&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn846-how-meter-built-a-topology-design-tool-to-speed-deployments-from-hours-to-seconds-sponsored/" title="ReadHN846: How Meter Built a Topology Design Tool to Speed Deployments from Hours to Seconds (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17499034/HN846.mp3" length="118227576" type="audio/mpeg" />
+      <itunes:episode>846</itunes:episode>
+      <podcast:episode>846</podcast:episode>
+      <itunes:title>How Meter Built a Topology Design Tool to Speed Deployments from Hours to Seconds (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:00:11</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>In this sponsored episode, Alex La Fazia and Daniel Kaczmarczyk of Meter explain how they built an internal tool to automate network topology creation, drastically reducing design time from hundreds…</itunes:subtitle>
+      <itunes:summary>In this sponsored episode, Alex La Fazia and Daniel Kaczmarczyk of Meter explain how they built an internal tool to automate network topology creation, drastically reducing design time from hundreds of hours to seconds. They share how they relied on a deterministic rules engine to ensure accurate, repeatable network configurations. They also discuss leveraging AI&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn846-how-meter-built-a-topology-design-tool-to-speed-deployments-from-hours-to-seconds-sponsored/" title="ReadHN846: How Meter Built a Topology Design Tool to Speed Deployments from Hours to Seconds (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
