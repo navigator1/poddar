@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 17:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:26:27 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?968a=1792579210" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?7f94=1792835476" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1125,5 +1125,35 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>In this sponsored episode, Alex La Fazia and Daniel Kaczmarczyk of Meter explain how they built an internal tool to automate network topology creation, drastically reducing design time from hundreds…</itunes:subtitle>
       <itunes:summary>In this sponsored episode, Alex La Fazia and Daniel Kaczmarczyk of Meter explain how they built an internal tool to automate network topology creation, drastically reducing design time from hundreds of hours to seconds. They share how they relied on a deterministic rules engine to ensure accurate, repeatable network configurations. They also discuss leveraging AI&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn846-how-meter-built-a-topology-design-tool-to-speed-deployments-from-hours-to-seconds-sponsored/" title="ReadHN846: How Meter Built a Topology Design Tool to Speed Deployments from Hours to Seconds (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN847: Building Trust In The Agentic NOC (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn847-building-trust-in-the-agentic-noc-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 17:26:27 +0000</pubDate>
+      <category>agentic AI</category>
+      <category>AI</category>
+      <category>AI agents</category>
+      <category>foundry</category>
+      <category>Joby Rudolph</category>
+      <category>LLMs</category>
+      <category>network automation</category>
+      <category>network operations</category>
+      <category>podcast</category>
+      <category>Selector</category>
+      <category>sponsored</category>
+      <category>Surya Nimmagadda</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=77028</guid>
+      <description>Many network engineers don’t trust AI, in part because the tech is non-deterministic and can behave in unanticipated ways. Simultaneously, the networking industry is baking AI functions deeply into operations, which has proven useful, but engineers still have their misgivings. Are these misgivings still warranted, given just how far we have advanced from chatbots and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn847-building-trust-in-the-agentic-noc-sponsored/" title="ReadHN847: Building Trust In The Agentic NOC (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17505230/HN847.mp3" length="144867008" type="audio/mpeg" />
+      <itunes:episode>847</itunes:episode>
+      <podcast:episode>847</podcast:episode>
+      <itunes:title>Building Trust In The Agentic NOC (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:00:22</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Many network engineers don’t trust AI, in part because the tech is non-deterministic and can behave in unanticipated ways. Simultaneously, the networking industry is baking AI functions deeply into o…</itunes:subtitle>
+      <itunes:summary>Many network engineers don’t trust AI, in part because the tech is non-deterministic and can behave in unanticipated ways. Simultaneously, the networking industry is baking AI functions deeply into operations, which has proven useful, but engineers still have their misgivings. Are these misgivings still warranted, given just how far we have advanced from chatbots and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn847-building-trust-in-the-agentic-noc-sponsored/" title="ReadHN847: Building Trust In The Agentic NOC (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
