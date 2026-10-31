@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 17:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:35:46 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?df4b=1793187659" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?cce4=1793445092" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1155,5 +1155,33 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>Many network engineers don’t trust AI, in part because the tech is non-deterministic and can behave in unanticipated ways. Simultaneously, the networking industry is baking AI functions deeply into o…</itunes:subtitle>
       <itunes:summary>Many network engineers don’t trust AI, in part because the tech is non-deterministic and can behave in unanticipated ways. Simultaneously, the networking industry is baking AI functions deeply into operations, which has proven useful, but engineers still have their misgivings. Are these misgivings still warranted, given just how far we have advanced from chatbots and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn847-building-trust-in-the-agentic-noc-sponsored/" title="ReadHN847: Building Trust In The Agentic NOC (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN848: NetClaw: Your Open Source Network Assistant</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn848-netclaw-your-open-source-network-assistant/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 15:33:53 +0000</pubDate>
+      <category>AI</category>
+      <category>AI agents</category>
+      <category>Itential</category>
+      <category>John Capobianco</category>
+      <category>MCP</category>
+      <category>Model Context Protocol</category>
+      <category>NetClaw</category>
+      <category>network automation</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=77139</guid>
+      <description>John Capobianco returns to Heavy Networking to discuss his latest open source project, NetClaw. NetClaw is an automation assistant for network engineers that leverages MCP and has a robust security architecture to ensure production safety. John is here to explain why and how he built NetClaw, and ways network engineers can use it in their&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn848-netclaw-your-open-source-network-assistant/" title="ReadHN848: NetClaw: Your Open Source Network Assistant"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17511548/HN848.mp3" length="164428928" type="audio/mpeg" />
+      <itunes:episode>848</itunes:episode>
+      <podcast:episode>848</podcast:episode>
+      <itunes:title>NetClaw: Your Open Source Network Assistant</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:08:31</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>John Capobianco returns to Heavy Networking to discuss his latest open source project, NetClaw. NetClaw is an automation assistant for network engineers that leverages MCP and has a robust security…</itunes:subtitle>
+      <itunes:summary>John Capobianco returns to Heavy Networking to discuss his latest open source project, NetClaw. NetClaw is an automation assistant for network engineers that leverages MCP and has a robust security architecture to ensure production safety. John is here to explain why and how he built NetClaw, and ways network engineers can use it in their&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn848-netclaw-your-open-source-network-assistant/" title="ReadHN848: NetClaw: Your Open Source Network Assistant"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
