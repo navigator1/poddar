@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 15:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:14:18 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?cce4=1793445092" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?30b4=1793798324" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1183,5 +1183,31 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>John Capobianco returns to Heavy Networking to discuss his latest open source project, NetClaw. NetClaw is an automation assistant for network engineers that leverages MCP and has a robust security…</itunes:subtitle>
       <itunes:summary>John Capobianco returns to Heavy Networking to discuss his latest open source project, NetClaw. NetClaw is an automation assistant for network engineers that leverages MCP and has a robust security architecture to ensure production safety. John is here to explain why and how he built NetClaw, and ways network engineers can use it in their&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn848-netclaw-your-open-source-network-assistant/" title="ReadHN848: NetClaw: Your Open Source Network Assistant"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN849: Meter Acquires Packet Pushers</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn849-meter-acquires-packet-pushers/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 17:00:10 +0000</pubDate>
+      <category>acquisition</category>
+      <category>Anil Varanasi</category>
+      <category>Ethan Banks</category>
+      <category>Meter</category>
+      <category>networking</category>
+      <category>Packet Pushers</category>
+      <category>podcast</category>
+      <category>Scott Robohn</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=77233</guid>
+      <description>Packet Pushers has been acquired by Meter. On this special Heavy Networking episode, guest host Scott Robohn talks with Ethan Banks and Anil Varanasi, CEO of Meter, about the acquisition. Ethan and Anil explain how this relationship will work (including full editorial independence for Packet Pushers), why it was the best move for Packet Pushers,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn849-meter-acquires-packet-pushers/" title="ReadHN849: Meter Acquires Packet Pushers"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17513898/HN849.mp3" length="149242688" type="audio/mpeg" />
+      <itunes:episode>849</itunes:episode>
+      <podcast:episode>849</podcast:episode>
+      <itunes:title>Meter Acquires Packet Pushers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:02:11</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Packet Pushers has been acquired by Meter. On this special Heavy Networking episode, guest host Scott Robohn talks with Ethan Banks and Anil Varanasi, CEO of Meter, about the acquisition. Ethan and…</itunes:subtitle>
+      <itunes:summary>Packet Pushers has been acquired by Meter. On this special Heavy Networking episode, guest host Scott Robohn talks with Ethan Banks and Anil Varanasi, CEO of Meter, about the acquisition. Ethan and Anil explain how this relationship will work (including full editorial independence for Packet Pushers), why it was the best move for Packet Pushers,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn849-meter-acquires-packet-pushers/" title="ReadHN849: Meter Acquires Packet Pushers"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
