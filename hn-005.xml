@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 17:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:56:00 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?30b4=1793798324" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?102c=1794052140" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1209,5 +1209,32 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>Packet Pushers has been acquired by Meter. On this special Heavy Networking episode, guest host Scott Robohn talks with Ethan Banks and Anil Varanasi, CEO of Meter, about the acquisition. Ethan and…</itunes:subtitle>
       <itunes:summary>Packet Pushers has been acquired by Meter. On this special Heavy Networking episode, guest host Scott Robohn talks with Ethan Banks and Anil Varanasi, CEO of Meter, about the acquisition. Ethan and Anil explain how this relationship will work (including full editorial independence for Packet Pushers), why it was the best move for Packet Pushers,&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn849-meter-acquires-packet-pushers/" title="ReadHN849: Meter Acquires Packet Pushers"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN850: AWS Takes a Unique Approach to AI Fabrics (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn850-aws-takes-a-unique-approach-to-ai-fabrics-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 18:56:00 +0000</pubDate>
+      <category>AI workloads</category>
+      <category>Amazon AWS</category>
+      <category>data center networking</category>
+      <category>JR Rivers</category>
+      <category>machine learning</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <category>Stephen Callaghan</category>
+      <category>UltraClusters</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=77219</guid>
+      <description>Amazon AWS is not new to the high-bandwidth, elephant flow-oriented data center traffic pattern requirements of AI. In this sponsored episode from AWS, Distinguished Engineer and Network Core VP JR Rivers and Senior Principal Networking Engineer Stephen Callaghan join Ethan and Drew to discuss running AI workloads on AWS. Together they break down why inference&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn850-aws-takes-a-unique-approach-to-ai-fabrics-sponsored/" title="ReadHN850: AWS Takes a Unique Approach to AI Fabrics (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17516765/HN850.mp3" length="103772804" type="audio/mpeg" />
+      <itunes:episode>850</itunes:episode>
+      <podcast:episode>850</podcast:episode>
+      <itunes:title>AWS Takes a Unique Approach to AI Fabrics (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>52:47</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Amazon AWS is not new to the high-bandwidth, elephant flow-oriented data center traffic pattern requirements of AI. In this sponsored episode from AWS, Distinguished Engineer and Network Core VP JR…</itunes:subtitle>
+      <itunes:summary>Amazon AWS is not new to the high-bandwidth, elephant flow-oriented data center traffic pattern requirements of AI. In this sponsored episode from AWS, Distinguished Engineer and Network Core VP JR Rivers and Senior Principal Networking Engineer Stephen Callaghan join Ethan and Drew to discuss running AI workloads on AWS. Together they break down why inference&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn850-aws-takes-a-unique-approach-to-ai-fabrics-sponsored/" title="ReadHN850: AWS Takes a Unique Approach to AI Fabrics (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
