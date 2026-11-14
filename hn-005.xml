@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 18:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:40:14 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?65e7=1794401767" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?54bc=1794659516" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1236,5 +1236,31 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>Amazon AWS is not new to the high-bandwidth, elephant flow-oriented data center traffic pattern requirements of AI. In this sponsored episode from AWS, Distinguished Engineer and Network Core VP JR…</itunes:subtitle>
       <itunes:summary>Amazon AWS is not new to the high-bandwidth, elephant flow-oriented data center traffic pattern requirements of AI. In this sponsored episode from AWS, Distinguished Engineer and Network Core VP JR Rivers and Senior Principal Networking Engineer Stephen Callaghan join Ethan and Drew to discuss running AI workloads on AWS. Together they break down why inference&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn850-aws-takes-a-unique-approach-to-ai-fabrics-sponsored/" title="ReadHN850: AWS Takes a Unique Approach to AI Fabrics (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN851: Inside the Certified Kubernetes Network Engineer (CKNE) Program</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn851-inside-the-certified-kubernetes-network-engineer-ckne-program/</link>
+      <dc:creator>Summerset Banks</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 14:40:14 +0000</pubDate>
+      <category>Certified Kubernetes Network Engineer</category>
+      <category>Cilium: Up and Running</category>
+      <category>CKNE</category>
+      <category>CNCF</category>
+      <category>Itential</category>
+      <category>Nico Vibert</category>
+      <category>podcast</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=77337</guid>
+      <description>Today, Drew and Ethan cover the brand new Certified Kubernetes Network Engineer program with Nico Vibert. Nico helped create this certification, and is writing a study guide for the program to be published by O’Reilly in 2027. They discuss what the CKNE covers, who should take it, how to prepare, and how it can advance&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn851-inside-the-certified-kubernetes-network-engineer-ckne-program/" title="ReadHN851: Inside the Certified Kubernetes Network Engineer (CKNE) Program"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17523938/HN851.mp3" length="134539328" type="audio/mpeg" />
+      <itunes:episode>851</itunes:episode>
+      <podcast:episode>851</podcast:episode>
+      <itunes:title>Inside the Certified Kubernetes Network Engineer (CKNE) Program</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>56:03</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>Today, Drew and Ethan cover the brand new Certified Kubernetes Network Engineer program with Nico Vibert. Nico helped create this certification, and is writing a study guide for the program to be…</itunes:subtitle>
+      <itunes:summary>Today, Drew and Ethan cover the brand new Certified Kubernetes Network Engineer program with Nico Vibert. Nico helped create this certification, and is writing a study guide for the program to be published by O’Reilly in 2027. They discuss what the CKNE covers, who should take it, how to prepare, and how it can advance&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn851-inside-the-certified-kubernetes-network-engineer-ckne-program/" title="ReadHN851: Inside the Certified Kubernetes Network Engineer (CKNE) Program"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
