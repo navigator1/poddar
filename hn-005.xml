@@ -30,7 +30,7 @@
     <atom:link href="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast/" rel="self" type="application/rss+xml" />
     <link>https://packetpushers.net/</link>
     <description>Heavy Networking is an unabashedly nerdy dive into all things networking. Described by one listener as "verbal white papers," the weekly episodes feature network engineers, industry experts, and vendors sharing useful information to keep your professional knowledge sharp and your career growing. Hosts Ethan Banks &amp; Drew Conry-Murray cut through the marketing spin to explore what works—and what doesn't—in networking today, while keeping an eye on what's ahead for the industry. On air since 2010, Heavy Networking is the flagship show of the Packet Pushers podcast network.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 14:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:09:21 +0000</lastBuildDate>
     <language>en</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -48,7 +48,7 @@ hourly</sy:updatePeriod>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <podcast:podping usesPodping="true" />
     <podcast:guid>29f57bd8-57e0-56cb-b41f-5276c909de11</podcast:guid>
-    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?b726=1795012390" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
+    <rawvoice:subscribe feed="https://packetpushers.net/podcast/heavy-networking/feed/?a0f8=1795268856" html="https://packetpushers.net/podcasts/" itunes="https://itunes.apple.com/us/podcast/packet-pushers-weekly-show/id370842767?mt=2" tunein="https://tunein.com/podcasts/Technology-Podcasts/Packet-Pushers-Weekly-p1035761/" spotify="https://open.spotify.com/show/7GlOoc33YmMT9j9hrvKH0y?si=53rH2DW4SE6lqLnsqTpivg" />
     <item>
       <title>HN806: Let’s Get NUTS!</title>
       <link>https://packetpushers.net/podcasts/heavy-networking/hn806-lets-get-nuts/</link>
@@ -1262,5 +1262,31 @@ hourly</sy:updatePeriod>
       <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
       <itunes:subtitle>Today, Drew and Ethan cover the brand new Certified Kubernetes Network Engineer program with Nico Vibert. Nico helped create this certification, and is writing a study guide for the program to be…</itunes:subtitle>
       <itunes:summary>Today, Drew and Ethan cover the brand new Certified Kubernetes Network Engineer program with Nico Vibert. Nico helped create this certification, and is writing a study guide for the program to be published by O’Reilly in 2027. They discuss what the CKNE covers, who should take it, how to prepare, and how it can advance&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn851-inside-the-certified-kubernetes-network-engineer-ckne-program/" title="ReadHN851: Inside the Certified Kubernetes Network Engineer (CKNE) Program"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
+    </item><item>
+      <title>HN852: Agentic AI Operations Merge with HPE’s Self-Driving Network (Sponsored)</title>
+      <link>https://packetpushers.net/podcasts/heavy-networking/hn852-agentic-ai-operations-merge-with-hpes-self-driving-network-sponsored/</link>
+      <dc:creator>Daniel Mudge</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 16:09:21 +0000</pubDate>
+      <category>agentic AI</category>
+      <category>AIOps</category>
+      <category>Bob Friday</category>
+      <category>HPE</category>
+      <category>networking</category>
+      <category>podcast</category>
+      <category>Self Driving Network</category>
+      <category>sponsored</category>
+      <guid isPermaLink="false">https://packetpushers.net/?post_type=podcast&amp;p=77442</guid>
+      <description>In this sponsored episode, Drew and Ethan are joined by Bob Friday of HPE for a look at their agentic AI strategy as the company continues its pursuit of the self-driving network. They discuss how the company is integrating an agentic AI framework into its existing AI ops capabilities, explore service level experience monitoring and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn852-agentic-ai-operations-merge-with-hpes-self-driving-network-sponsored/" title="ReadHN852: Agentic AI Operations Merge with HPE’s Self-Driving Network (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</description>
+      <enclosure url="https://feeds.packetpushers.net/link/12486/17536299/HN852.mp3" length="93119576" type="audio/mpeg" />
+      <itunes:episode>852</itunes:episode>
+      <podcast:episode>852</podcast:episode>
+      <itunes:title>Agentic AI Operations Merge with HPE’s Self-Driving Network (Sponsored)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>47:27</itunes:duration>
+      <itunes:author>Packet Pushers</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>networking, networks, technology, IT, infrastructure</itunes:keywords>
+      <itunes:subtitle>In this sponsored episode, Drew and Ethan are joined by Bob Friday of HPE for a look at their agentic AI strategy as the company continues its pursuit of the self-driving network. They discuss how…</itunes:subtitle>
+      <itunes:summary>In this sponsored episode, Drew and Ethan are joined by Bob Friday of HPE for a look at their agentic AI strategy as the company continues its pursuit of the self-driving network. They discuss how the company is integrating an agentic AI framework into its existing AI ops capabilities, explore service level experience monitoring and&lt;a class="excerpt-read-more" href="https://packetpushers.net/podcasts/heavy-networking/hn852-agentic-ai-operations-merge-with-hpes-self-driving-network-sponsored/" title="ReadHN852: Agentic AI Operations Merge with HPE’s Self-Driving Network (Sponsored)"&gt;... Read more &amp;#187;&lt;/a&gt;</itunes:summary>
     </item></channel>
 </rss>
